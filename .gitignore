@@ -1,3 +1,20 @@
+
+# Old stuff
+Gemfile.lock
+node_modules
+*.gemspec
+#.bundle
+.jekyll-cache
+.jekyll-metadata
+.DS_Store
+.ruby-version
+.ruby-gemset
+.sass-cache
+.vscode
+_site
+
+
+# new stuff
 *.gem
 *.rbc
 /.config
