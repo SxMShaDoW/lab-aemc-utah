@@ -13,4 +13,4 @@ How can App Engine Studio Users develop collaboratively with other users?
 
 # Coming Soon!!
 
-[Next](/lab-aemc/docs/references){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/references){: .btn .btn-green .fs-2}

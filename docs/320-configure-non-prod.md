@@ -70,4 +70,4 @@ permalink: /docs/configure-non-prod
 
 You're one step closer to deploying apps with App Engine Management Center. 
 
-[Next](/lab-aemc/docs/app-intake){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/app-intake){: .btn .btn-green .fs-2}

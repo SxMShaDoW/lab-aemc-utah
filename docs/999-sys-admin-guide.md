@@ -1184,5 +1184,5 @@ Yes, this can be accomplished by updating the 'Instance Type' value for an Envir
 
 [Previous][PREV]{: .btn .mr-2 .fs-2}
 
-[PREV]: /lab-aemc/docs/how-to-get-lab-instance
-[NEXT]: /lab-aemc/
+[PREV]: /lab-aemc-utah/docs/how-to-get-lab-instance
+[NEXT]: /lab-aemc-utah/

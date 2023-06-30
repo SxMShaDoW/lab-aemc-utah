@@ -76,4 +76,4 @@ Next, we will configure the **AES Admins** group in Prod.
 {: .note}
 > For more information, see **[Product Documentation: Create a pipeline](https://docs.servicenow.com/csh?topicname=create-pipeline.html)**.
 
-[Next](/lab-aemc/docs/configure-prod-aes-admin){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-prod-aes-admin){: .btn .btn-green .fs-2}

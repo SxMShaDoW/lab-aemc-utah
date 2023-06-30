@@ -32,4 +32,4 @@ Since development is supported between the two environments, low-code and pro-co
 
 All configurations to an application, whether performed in App Engine Studio or ServiceNow Studio, can be captured in the same private application scope. Application artifacts configured in App Engine Studio can also be managed in ServiceNow Studio. However, some application artifacts can only be accessed and configured in ServiceNow Studio. These include business rules, notifications, and service portal pages. 
 
-[Next](/lab-aemc/docs/personas-and-roles){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/personas-and-roles){: .btn .btn-green .fs-2}

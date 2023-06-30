@@ -34,4 +34,4 @@ After cloning, a post-clone clean-up script is needed to reassign users and grou
 
 ***Note:** New App Engine Studio customers (Tokyo +) will only have data preservers on the tables listed above. Existing customers (pre-Tokyo) will also have data preservers on the following tables : Pipeline, Environment. Pipeline Environment Order, Pipeline Types*
 
-[Next](/lab-aemc/docs/credential-tips){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/credential-tips){: .btn .btn-green .fs-2}

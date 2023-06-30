@@ -93,4 +93,4 @@ permalink: /docs/personas-and-roles
 {: .no_toc}
 - sn_app_eng_studio.user
 
-[Next](/lab-aemc/docs/install-reqs){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/install-reqs){: .btn .btn-green .fs-2}

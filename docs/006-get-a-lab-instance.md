@@ -26,4 +26,4 @@ There is also a link to the Lab Guide on this page which you are currently readi
 
 Click on the **Magic Link** to be taken directly to an instance and automatically logged in.
 
-[Next](/lab-aemc/docs/pre-reqs){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/pre-reqs){: .btn .btn-green .fs-2}

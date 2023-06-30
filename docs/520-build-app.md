@@ -19,7 +19,7 @@ She receives an email that her app has been approved.
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc/assets/images/2023-03-28-17-01-20.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-17-01-20.png">
 > </td>
 > </tr>
 > </tbody>
@@ -31,7 +31,7 @@ She receives an email that her app has been approved.
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc/assets/images/2023-03-28-15-52-55.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-15-52-55.png">
 > </td>
 > <td>
 > She clicks the button in the email to go to App Engine Studio...<br/>
@@ -116,4 +116,4 @@ She receives an email that her app has been approved.
 
 Your new developer has built and app and submitted a request to deploy it.
 
-[Next](/lab-aemc/docs/deploy-app){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/deploy-app){: .btn .btn-green .fs-2}

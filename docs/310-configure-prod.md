@@ -9,6 +9,6 @@ permalink: /docs/configure-prod
 
 # 3.1) Configure Prod
 
-[Next](/lab-aemc/docs/configure-prod-environments){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-prod-environments){: .btn .btn-green .fs-2}
 
 ## Complete the Table of Contents in the order below.

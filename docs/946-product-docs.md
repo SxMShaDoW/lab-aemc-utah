@@ -45,4 +45,4 @@ permalink: /docs/docs
 > For more information see **[Product Documentation: Instance strategy for App Engine Studio](https://docs.servicenow.com/csh?topicname=aes-instance-strategy.html)**
 
 
-[Next](/lab-aemc/docs/faqs){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/faqs){: .btn .btn-green .fs-2}

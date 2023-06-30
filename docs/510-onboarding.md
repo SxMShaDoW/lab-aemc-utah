@@ -15,7 +15,7 @@ permalink: /docs/onboarding
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc/assets/images/2023-03-28-15-52-55.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-15-52-55.png">
 > </td>
 > <td>
 > Sydney Carter has been in IT for years in various roles.<br/>
@@ -91,7 +91,7 @@ permalink: /docs/onboarding
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc/assets/images/2023-03-28-16-42-23.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-16-42-23.png">
 > </td>
 > <td>
 > Jayne is our App Engine Admin that we configured earlier in Lab 1, Step 22.<br/>
@@ -134,4 +134,4 @@ Sydney is ready begin building her first app.
 
 Jayne was able to configure Sydney's access **without** the admin role by clicking Approve on the request.
 
-[Next](/lab-aemc/docs/build-app){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/build-app){: .btn .btn-green .fs-2}

@@ -99,4 +99,4 @@ Next up, you will configure the Pipeline in the Prod environment.
 {: .note}
 > For more information see **[Product Documentation: Define environments](https://docs.servicenow.com/csh?topicname=create-environment.html)**
 
-[Next](/lab-aemc/docs/configure-prod-pipeline){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-prod-pipeline){: .btn .btn-green .fs-2}

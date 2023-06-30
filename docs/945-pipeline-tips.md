@@ -22,4 +22,4 @@ If you have **more than one** Production environment, then AEMC will only be the
 {: .note}
 > For more information, see **[Product Documentation: Create a pipeline](https://docs.servicenow.com/csh?topicname=create-pipeline.html)**
 
-[Next](/lab-aemc/docs/docs){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/docs){: .btn .btn-green .fs-2}

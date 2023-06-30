@@ -8,6 +8,6 @@ permalink: /docs/pipelines-deployments
 
 # 3) Pipelines & Deployments
 
-[Next](/lab-aemc/docs/configure-prod){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-prod){: .btn .btn-green .fs-2}
 
 ## Complete the Table of Contents in the order below.

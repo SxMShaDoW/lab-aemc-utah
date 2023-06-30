@@ -96,4 +96,4 @@ Repeat and install the Deployment Pipeline plugin in each sub-production instanc
 
 At a point in the setup of the Pipeline, you will need to provide a Service Account that can be used by the instances to communicate with each other.  Check with your company policy on Service Accounts for requirements. 
 
-[Next](/lab-aemc/docs/configure-aes){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-aes){: .btn .btn-green .fs-2}

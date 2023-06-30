@@ -74,4 +74,4 @@ permalink: /docs/app-intake
 
 You are ready to onboard developers and deploy their apps with ease!
 
-[Next](/lab-aemc/docs/simulation){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/simulation){: .btn .btn-green .fs-2}

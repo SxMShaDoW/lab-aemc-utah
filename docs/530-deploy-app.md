@@ -15,7 +15,7 @@ permalink: /docs/deploy-app
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc/assets/images/2023-03-28-16-42-23.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-16-42-23.png">
 > </td>
 > <td>
 > Jayne is familiar many different software methodologies such as Agile and SAFe.<br/> 
@@ -101,4 +101,4 @@ permalink: /docs/deploy-app
 
 You have made it!! You deployed an app with the click of a button!
 
-[Next](/lab-aemc/docs/collaboration){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/collaboration){: .btn .btn-green .fs-2}

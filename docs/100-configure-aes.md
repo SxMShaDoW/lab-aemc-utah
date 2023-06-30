@@ -171,4 +171,4 @@ You should see **Jayne Nigel** appear in the **User** column after a few seconds
 
 App Engine Studio is ready to go in your Dev environment!
 
-[Next](/lab-aemc/docs/credentials){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/credentials){: .btn .btn-green .fs-2}

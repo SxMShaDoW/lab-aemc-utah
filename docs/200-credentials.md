@@ -73,4 +73,4 @@ ILoveHyperAutomationTimes500!
 {: .note}
 > For more information, see **[Product Documentation: Create a Connection & Credential Alias](https://docs.servicenow.com/csh?topicname=connection-alias.html)**
 
-[Next](/lab-aemc/docs/pipelines-deployments){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/pipelines-deployments){: .btn .btn-green .fs-2}

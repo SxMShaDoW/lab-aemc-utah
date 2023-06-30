@@ -43,4 +43,4 @@ Your Production instance is configure for App Engine!
 
 Next, you will configure your non-production instances. These are also sometimes referred to as subproduction.
 
-[Next](/lab-aemc/docs/configure-non-prod){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/configure-non-prod){: .btn .btn-green .fs-2}

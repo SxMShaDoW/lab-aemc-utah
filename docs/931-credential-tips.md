@@ -25,4 +25,4 @@ permalink: /docs/credential-tips
 > The service account **must exist** in the target instance(s) and have admin permissions.
 >
 
-[Next](/lab-aemc/docs/pipeline-tips){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/pipeline-tips){: .btn .btn-green .fs-2}
