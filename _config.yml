@@ -24,10 +24,10 @@ remote_theme: just-the-docs/just-the-docs@v0.4.2
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Title of your website
-title: App Engine Governance Lab
+title: App Engine Governance Lab (US2)
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: Creator Workshops App Engine Governance Lab
+description: Creator Workshops App Engine Governance Lab (US2)
 
 # Main author of the website
 # See > authors.yml
@@ -37,7 +37,7 @@ author: dalenow
 #
 #url: https://creatorworkflowsnow.github.io/lab-aemc-utah/
 url: 'https://creatorworkflowsnow.github.io'
-baseurl: '/lab-aemc'
+baseurl: '/lab-aemc-utah'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -210,7 +210,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # [false/true] # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/CreatorWorkflowsNow/lab-aemc" # the github URL for your repo
+gh_edit_repository: "https://github.com/CreatorWorkflowsNow/lab-aemc-utah" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -255,5 +255,5 @@ compress_html:
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
-ga_tracking: G-XJ4NRHHVXR
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+#ga_tracking: G-XJ4NRHHVXR
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
