@@ -1,6 +1,6 @@
-# App Engine Management Center Lab (UTAH)
+# App Engine Management Center Lab (TOKYO)
 
-[![pages-build-deployment](https://github.com/CreatorWorkflowsNow/lab-aemc-utah/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CreatorWorkflowsNow/lab-aemc-utah/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/CreatorWorkflowsNow/lab-aemc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CreatorWorkflowsNow/lab-aemc/actions/workflows/pages/pages-build-deployment)
 
 ## Table of contents
 - [App Engine Management Center Lab](#app-engine-management-center-lab)
@@ -19,21 +19,21 @@
 
 This is the Lab Guide repo for App Engine Governance Lab.
 
-Lab Guide: https://creatorworkflowsnow.github.io/lab-aemc-utah
+Lab Guide: https://creatorworkflowsnow.github.io/lab-aemc
 
 AEMC Documentation: https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest
 
 ## Main Sections
-- [Start Here](https://creatorworkflowsnow.github.io/lab-aemc-utah/)
-- [How to get Lab Instance](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/how-to-get-lab-instance)
-- [Pre-Reqs](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/pre-reqs)
-1) [App Engine Studio](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/configure-aes)
-2) [Credentials](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/credentials)
-3) [Pipelines & Deployments](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/pipelines-deployments)
-4) [App Intake](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/app-intake)
-5) [Simulation](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/simulation)
-- [References](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/references)
-- [FAQs](https://creatorworkflowsnow.github.io/lab-aemc-utah/docs/faqs)
+- [Start Here](https://creatorworkflowsnow.github.io/lab-aemc/)
+- [How to get Lab Instance](https://creatorworkflowsnow.github.io/lab-aemc/docs/how-to-get-lab-instance)
+- [Pre-Reqs](https://creatorworkflowsnow.github.io/lab-aemc/docs/pre-reqs)
+1) [App Engine Studio](https://creatorworkflowsnow.github.io/lab-aemc/docs/configure-aes)
+2) [Credentials](https://creatorworkflowsnow.github.io/lab-aemc/docs/credentials)
+3) [Pipelines & Deployments](https://creatorworkflowsnow.github.io/lab-aemc/docs/pipelines-deployments)
+4) [App Intake](https://creatorworkflowsnow.github.io/lab-aemc/docs/app-intake)
+5) [Simulation](https://creatorworkflowsnow.github.io/lab-aemc/docs/simulation)
+- [References](https://creatorworkflowsnow.github.io/lab-aemc/docs/references)
+- [FAQs](https://creatorworkflowsnow.github.io/lab-aemc/docs/faqs)
 
 Submit bug reports and feature suggestions, or track changes by contacting [Dale Stubblefield](mailto:dale.stubblefield@servicenow.com).
 

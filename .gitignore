@@ -12,6 +12,7 @@ node_modules
 .sass-cache
 .vscode
 _site
+*orig.md
 
 
 # new stuff
