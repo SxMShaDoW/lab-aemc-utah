@@ -18,34 +18,20 @@ permalink: /docs/configure-prod-environments
 > 
 > *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 
-## In your "Prod" instance, configure Dev Environment record ...
+## Create a Dev Environment Record (in your Prod instance)
 
 {: .warning}
-> This section is to be completed in your **production** instance where AEMC will be running.
+> Complete this section in **PROD**.
 >
 > The Environment records will function fine in any scope, but we recommend changing to the **Deployment Pipeline** scope before continuing. 
 
-| 1) Click **All**. 
-| ![](../assets/images/2023-03-07-15-05-18.png)
+| 1) Click **All** >> type **environment** >> click **Environments** 
+| ![](../assets/images/2023-06-30-15-17-33.png)
 
-| 2) Type **pipelines**.
+| 2) Click **New** in the top-right
+| ![](../assets/images/2023-06-30-15-19-10.png)
 
-| 3) Click **Guided Setup** in the Pipelines and Deployments section.
-
-| 4) Click the green **Get Started** button in the top-right. 
-| ![](../assets/images/2023-03-07-15-23-27.png)
-
-| 5) Click **Get Started** in the **Configuring your production instance** section. 
-| ![](../assets/images/2023-03-07-15-22-52.png)
-
-| 6) Click **Configure** in the **Configure Environments** section.  
-| ![](../assets/images/2023-03-09-15-28-57.png)
-
-| 7) Click **New** in the top right. 
-| ![](../assets/images/2023-03-09-15-29-57.png)
-
-| 8) Complete the form as below and click the "Validate" button. 
-| ![](../assets/images/2023-03-09-15-32-08.png) 
+| 3) Complete the form as below and click the "Validate" button. 
 
 | Field | Value 
 |:---|:---
@@ -56,20 +42,21 @@ permalink: /docs/configure-prod-environments
 | Is Controller? | ```Leave unchecked``` 
 | Instance Id | ```This will auto populate after clicking Validate.``` 
 
+| ![](../assets/images/2023-03-09-15-32-08.png) 
+
 | You should see a blue message that says "The environment was validated successfully". 
 |![](../assets/images/2023-03-09-15-51-38.png)
 
-| 9) Click **Submit** to finish creating the '*Dev*' environment record.
+| 4) Click **Submit** to finish creating the '*Dev*' environment record.
 
 ***You have now created your Dev Environment record in your Prod instance.***
 
-## Create the Prod Environment Record
+## Create a Prod Environment Record (in your Prod instance)
 
-| 15) Click **New** in the top right.
-| ![](../assets/images/2023-03-09-15-29-57.png)
+| 5) Click **New** in the top right.
+| ![](../assets/images/2023-06-30-15-19-10.png)
 
-| 16) Complete the form as below and click the 'Validate' button.
-| ![](../assets/images/2023-03-09-15-32-08.png) 
+| 6) Complete the form as below and click the 'Validate' button.
 
 | Field | Value 
 |:---|:---
@@ -77,8 +64,10 @@ permalink: /docs/configure-prod-environments
 | Instance Type | ```Production``` 
 | Instance URL | ```The full URL of your Prod Lab instance (Ex. https://your-lab-123.service-now.com)``` 
 | Instance credential | ```sn_deploy_pipeline.Pipeline_Credentials``` 
-| Is Controller? | ```Leave unchecked``` 
+| Is Controller? | ```Checked``` 
 | Instance Id | ```This will auto populate after clicking Validate.``` 
+
+| ![](../assets/images/2023-06-30-15-26-16.png)
 
 | You should see a blue message that says "*The controller environment was validated successfully*". 
 | ![](../assets/images/2023-03-12-17-05-44.png)
@@ -86,13 +75,7 @@ permalink: /docs/configure-prod-environments
 | 23) Click **Submit** to finish creating the '*Prod*' environment record.
 | ![](../assets/images/2023-03-12-16-59-46.png)
 
-| 24) Click the top-right 'X' to close the modal. 
-| ![](../assets/images/2023-03-12-17-09-24.png)
-
-| 25) In the '*Configure environments*' section', Click '**Mark as Complete**'.
-| ![](../assets/images/2023-03-12-17-10-18.png)
-
-That completes setup of your Environment record in the Prod environment.
+That completes setup of your Environment records in the Prod environment.
 
 Next up, you will configure the Pipeline in the Prod environment.
 

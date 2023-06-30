@@ -5,6 +5,7 @@ parent: 3.1) Configure Prod
 title: 3.1.3) AES Admin in Prod
 nav_order: 340
 permalink: /docs/configure-prod-aes-admin
+nav_exclude: true
 ---
 
 # 3.1.2) Configure Prod AES Admin Group
