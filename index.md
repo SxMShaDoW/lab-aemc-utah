@@ -19,7 +19,7 @@ Track and manage your App Engine Studio (AES) requests, deployments, application
 - App Engine Management Center v23.1.3
 
 {: .note}
-> For more information see **[Product Docs: Managing app development using the App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)
+> For more information see **[Product Docs: Managing app development using the App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)**
 
 <span class="fs-6">
 [Let's Go!](./docs/lab-instance){: .btn .btn-green}
