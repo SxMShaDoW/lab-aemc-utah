@@ -14,12 +14,12 @@ We will cover concepts such as Pipelines and Deployments, Onboarding Developers,
 Track and manage your App Engine Studio (AES) requests, deployments, applications, and collaborative developers using the App Engine Management Center (AEMC) in your production instance. Additionally, AEMC allows admins to manage app development from intake through production.
 
 ## Requirements
-- ServiceNow Tokyo Release
-- App Engine Studio v22.1.1
-- App Engine Management Center v22.1.2
+- ServiceNow Utah Store 2 Release of App Engine (US2)
+- App Engine Studio v23.2.1
+- App Engine Management Center v23.1.3
 
 {: .note}
-> For more information see **[Product Docs: Managing app development using the App Engine Management Center](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/monitor-requests-using-aemc.html)**
+> For more information see **[Product Docs: Managing app development using the App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)
 
 <span class="fs-6">
 [Let's Go!](./docs/lab-instance){: .btn .btn-green}
