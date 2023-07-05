@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: 5) Simulation
-title: 5.4) Collaborate on an app
-nav_order: 540
+title: 5.5) Collaborate on an app
+nav_order: 550
 nav_exclude: false
 permalink: /docs/collaboration
 ---
 
-# 5.4) Collaborate on an app
+# 5.5) Collaborate on an app
 
 How can App Engine Studio Users develop collaboratively with other users?
 

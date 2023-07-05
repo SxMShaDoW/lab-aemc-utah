@@ -9,6 +9,6 @@ permalink: /docs/simulation
 
 # 5) Simulation
 
-[Next](/lab-aemc-utah/docs/onboarding){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/request-developer-access){: .btn .btn-green .fs-2}
 
 ## Complete the Table of Contents in the order below.

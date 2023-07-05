@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: 5) Simulation
-title: 5.2) Build an app
-nav_order: 520
+title: 5.3) Build an app
+nav_order: 530
 nav_exclude: false
 permalink: /docs/build-app
 ---
 
-# 5.2) Build an app
+# 5.3) Build an app
 
 In this section, Sydney will build her app. 
 
