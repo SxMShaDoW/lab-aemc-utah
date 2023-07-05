@@ -7,39 +7,29 @@ has_children: false
 permalink: /docs/configure-non-prod
 ---
 
-# 3.2) Configure non-Prod Controller
+# 3.2) Configure Controller Environment in Dev Instance
 
-*In each sub-production instance, set up and configure the Environment record which will point to the controller instance (production), where the deployment pipeline configurations reside.*
+We will make sure the Dev environment knows where to send Deployment Requests. 
 
-*All deployment requests are routed through the controller instance. Until this is configured, your developers will not be able to submit deployment requests.*
-
-{: .highlight}
-> In this section, you will be working in your **DEV** instance.
+They will get sent to App Engine Management Center in Production for review by the App Engine Admin Group.
 
 {: .warning}
-> Environment records will function fine in any scope, but we recommend changing to the **Deployment Pipeline** scope before continuing.
+> Complete this section in **DEV**.
+
+{: .highlight}
+> Environment records will function fine in any scope, but the **Deployment Pipeline** scope is a good one to use if not sure.
 
 ## Environment setup
 
 | 1) Log in to the **DEV** environment. 
 
-| 2) Click **All**, Type ```pipeline```. 
-| ![](../assets/images/2023-03-12-21-33-52.png)
+| 2) Click **All** >> type **environment** >> click **Environments** 
+| ![](../assets/images/2023-07-05-09-45-11.png)
 
-| 3) Click **Guided Setup**. 
-| ![](../assets/images/2023-03-12-21-33-52.png)
+| 3) Click **New** in the top-right
+| ![](../assets/images/2023-06-30-15-19-10.png)
 
-| 4) In the section '*Configuring your non-production instances*', click **Get Started**. 
-| ![](../assets/images/2023-03-13-10-21-23.png)
-
-| 5) In the section '*Configure the controller instance*', click **Configure**. 
-| ![](../assets/images/2023-03-13-10-22-34.png)
-
-| 6) Click **New**. 
-| ![](../assets/images/2023-03-13-10-24-26.png)
-
-| 7) Complete the form using the information below. 
-| ![](../assets/images/2023-03-13-10-31-06.png)
+| 4) Complete the form using the information below. 
 
 | Field | Value 
 |:---|:---
@@ -47,8 +37,10 @@ permalink: /docs/configure-non-prod
 | Instance Type| ```Production``` 
 | Instance URL | ```The full URL of your Prod Lab instance (Ex. https://your-lab-123.service-now.com)``` 
 | Instance credential | ```sn_deploy_pipeline.Pipeline_Credentials``` 
-| Is Controller? | ```Leave unchecked``` 
+| Is Controller? | ```Checked``` 
 | Instance Id | ```This will auto populate after clicking Validate```
+
+| ![](../assets/images/2023-03-13-10-31-06.png)
 
 | You should see a blue message that says "The controller environment was validated successfully". 
 | ![](../assets/images/2023-03-12-17-05-44.png)
@@ -63,11 +55,11 @@ permalink: /docs/configure-non-prod
 >
 > This error can be safely ignored
 
-| 14.1) Click **Mark as Complete**
-| ![](../assets/images/2023-04-25-10-52-02.png)
-
 **Congratulations!**
 
 You're one step closer to deploying apps with App Engine Management Center. 
+
+{: .note}
+> For more information see **[Product Documentation: Define environments](https://docs.servicenow.com/csh?topicname=config-pipeline-environments.html&version=latest)**
 
 [Next](/lab-aemc-utah/docs/app-intake){: .btn .btn-green .fs-2}

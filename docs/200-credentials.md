@@ -9,23 +9,17 @@ permalink: /docs/credentials
 
 In this lab, we will configure Service Account Credentials that allow App Engine Studio and App Engine Management Center to communicate.
 
-Set up and configure the environments that will be included within your pipelines. These will be referenced when building your pipelines.
-
-Your production instance is where your pipeline configurations reside and will be your controller instance.
-
-The 'Is Controller?' box will be **checked** on your production instance only. This box will be **unchecked** for all sub-production Environment records.
-
-If you have **more than one** Production environment, then AEMC will be the controller on a single instance for all of your other Prods.
+{: .highlight}
+> For the purposes of this lab, it is not important what Application Scope you create the credentials in. 
+>
+> Check with your Platform Administrator to see if your company has policies around connection and credential storage.
 
 {: .warning}
-> Complete the steps below in all of your Lab environments.  
+> **Complete the steps below in all of your Lab environments.**
 >
-> Start with Prod then Dev.
-
-{: .highlight}
-> For this lab, the credentials will be created in your current scope which should still be "App Engine Studio".
+> Start with **Prod** then **Test** then **Dev**.
 >
-> Check with your Platform Administrator to see if there are any preferred policies around connection and credential storage. 
+> Some Labs may only have a **Prod** and **Dev**.  
 
 | 1) Navigate to **All**.
 

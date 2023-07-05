@@ -8,13 +8,16 @@ permalink: /docs/configure-prod-aes-admin
 nav_exclude: true
 ---
 
+2023.07.05 - Dale: I removed this page as it is now set up via automation. 
+
 # 3.1.2) Configure Prod AES Admin Group
 
-*Configure App Engine Studio administrator group membership in the **production** instance to manage application intake and deployment requests.*
+Configure App Engine Studio administrator group membership in the **production** instance to manage application intake and deployment requests.
+
+{: .warning}
+> Complete this section in **PROD**.
 
 {: .highlight}
-> *In this section, you will work in your **PROD** instance.*
-> 
 > *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 
 

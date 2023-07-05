@@ -13,9 +13,12 @@ A pipeline defines the path an application takes from the development to product
 
 Set up and configure your pipeline by specifying the environments to include along with their position in the pipeline.
 
+The Pipeline is only configured on the Controller Environment, which is the Production instance. 
+
+{: .warning}
+> Complete this section in **PROD**.
+
 {: .highlight}
-> In this section, you will configure environments for your pipeline on your **Prod** instance.
-> 
 > *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 
 | 1) Click **All** >> type **pipelines** >> click **Pipelines** 
@@ -52,5 +55,8 @@ Set up and configure your pipeline by specifying the environments to include alo
 | ![](../assets/images/2023-06-30-15-42-05.png)
 
 **Congratulations!** You have created a **Pipeline** in your Prod environment to deploy applications with!
+
+{: .note}
+> For more information see **[Product Documentation: Create a pipeline](https://docs.servicenow.com/csh?topicname=config-p-and-d.html&version=latest)**
 
 [Next](/lab-aemc-utah/docs/configure-non-prod){: .btn .btn-green .fs-2}

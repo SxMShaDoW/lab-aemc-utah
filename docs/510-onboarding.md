@@ -15,7 +15,7 @@ permalink: /docs/onboarding
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-15-52-55.png">
+> <img src="../assets/images/2023-03-28-15-52-55.png">
 > </td>
 > <td>
 > Sydney Carter has been in IT for years in various roles.<br/>
@@ -28,28 +28,22 @@ permalink: /docs/onboarding
 > </tbody>
 > </table>
 
-| 1) In the top right, click the **System Administrator** avatar.
-
-| 2) Click **Impersonate User**
+| 1) In the top right, click the **System Administrator** avatar >> **Impersonate user**.
 | ![](../assets/images/2023-03-14-12-31-53.png)
 
-| 3) Type **Sydney Carter** and click **Sydney Carter** in the search results.
+| 2) Type **Sydney Carter** and click **Sydney Carter** in the search results.
 | ![](../assets/images/2023-03-14-12-34-01.png)
 
-| 4) Click **Impersonate User**. 
+| 3) Click **Impersonate User**. 
 | ![](../assets/images/2023-03-14-12-34-24.png)
 
-| 5) Click **All**.
-| ![](../assets/images/2023-03-14-12-35-45.png)
+| 4) Click **All** >> type **employee center** >> click **Employee Center** 
+| ![](../assets/images/2023-07-05-10-07-57.png)
 
-| 6) Type **employee center**.
-
-| 7) Click **Employee Center**.
-
-| 8) Click **IT for IT** 
+| 5) Click **IT for IT** 
 | ![](../assets/images/2023-03-14-12-36-45.png)
 
-| 9) Click **Apply for Citizen Development**
+| 6) Click **Apply for Citizen Development**
 | ![](../assets/images/2023-03-14-12-37-08.png)
 
 | 10) Ignore the red error message or close it.
