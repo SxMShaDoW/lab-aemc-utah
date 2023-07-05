@@ -23,7 +23,7 @@ permalink: /docs/approval/
 > <tbody>
 > <tr>
 > <td>
-> <img src="../assets/images/2023-03-28-16-42-23.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/Jayne_Nigel.png" />
 > </td>
 > <td>
 > Jayne is the App Engine Admin.<br/>
