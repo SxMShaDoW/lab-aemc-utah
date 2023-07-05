@@ -46,13 +46,12 @@ permalink: /docs/onboarding
 | 6) Click **Apply for Citizen Development**
 | ![](../assets/images/2023-03-14-12-37-08.png)
 
-| 10) Ignore the red error message or close it.
-| ![](../assets/images/2023-03-14-12-37-43.png)
-
 {: .highlight}
-> This message only appears for users logged in with the admin role like we are today - even if we are impersonating.
+> This error message only appears for users logged in with the admin role even if impersonating.
 >
-> In the real world, only users without the admin role would be applying for citizen development. 
+> ![](../assets/images/2023-03-14-12-37-43.png)
+>
+> In the real world, users with the **admin** role would **not be** applying for citizen development. 
 
 | 11) Fill out the form with the values below. 
 

@@ -19,6 +19,8 @@ The Pipeline is only configured on the Controller Environment, which is the Prod
 > Complete this section in **PROD**.
 
 {: .highlight}
+> For the purposes of this lab, it is not important what Application Scope you create the environment records in. Global is fine. 
+>
 > *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 
 | 1) Click **All** >> type **pipelines** >> click **Pipelines** 

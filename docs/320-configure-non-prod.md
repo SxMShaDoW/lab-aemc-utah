@@ -9,7 +9,7 @@ permalink: /docs/configure-non-prod
 
 # 3.2) Configure Controller Environment in Dev Instance
 
-We will make sure the Dev environment knows where to send Deployment Requests. 
+We need to make sure the Dev environment knows where to send Deployment Requests. 
 
 They will get sent to App Engine Management Center in Production for review by the App Engine Admin Group.
 
@@ -17,7 +17,7 @@ They will get sent to App Engine Management Center in Production for review by t
 > Complete this section in **DEV**.
 
 {: .highlight}
-> Environment records will function fine in any scope, but the **Deployment Pipeline** scope is a good one to use if not sure.
+> For the purposes of this lab, it is not important what Application Scope you create the environment records in. Global is fine. 
 
 ## Environment setup
 
@@ -36,24 +36,18 @@ They will get sent to App Engine Management Center in Production for review by t
 | Name | ```Prod``` 
 | Instance Type| ```Production``` 
 | Instance URL | ```The full URL of your Prod Lab instance (Ex. https://your-lab-123.service-now.com)``` 
-| Instance credential | ```sn_deploy_pipeline.Pipeline_Credentials``` 
+| Instance credential | ```Pipeline_Credentials``` 
 | Is Controller? | ```Checked``` 
 | Instance Id | ```This will auto populate after clicking Validate```
 
 | ![](../assets/images/2023-03-13-10-31-06.png)
+| ![](../assets/images/2023-07-05-13-56-23.png)
 
 | You should see a blue message that says "The controller environment was validated successfully". 
 | ![](../assets/images/2023-03-12-17-05-44.png)
 
 | 14) Click **Submit** to finish creating the **Prod** environment record.
-| ![](../assets/images/2023-03-12-16-59-46.png)
-
-{: .highlight}
-> If you get a message like below that says '*This is an invalid URL.*', click **X** in the top right and close the modal. 
->
-> ![](../assets/images/2023-03-13-10-48-10.png)
->
-> This error can be safely ignored
+| ![](../assets/images/2023-07-05-14-01-45.png)
 
 **Congratulations!**
 

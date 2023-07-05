@@ -10,9 +10,9 @@ permalink: /docs/credentials
 In this lab, we will configure Service Account Credentials that allow App Engine Studio and App Engine Management Center to communicate.
 
 {: .highlight}
-> For the purposes of this lab, it is not important what Application Scope you create the credentials in. 
+> For the purposes of this lab, it is not important what Application Scope you create the credentials in. Global is fine.
 >
-> Check with your Platform Administrator to see if your company has policies around connection and credential storage.
+> Check with your Platform Administrator to see if your company has any policies around connection and credential storage.
 
 {: .warning}
 > **Complete the steps below in all of your Lab environments.**
