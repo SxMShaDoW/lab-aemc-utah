@@ -36,12 +36,10 @@ permalink: /docs/approval/
 > </tbody>
 > </table>
 
-| 4) Click **All**.
-
-| 5) Type **app engine management**.
-
-| 6) Click **App Engine Management Center**.
-| ![](../assets/images/2023-04-25-10-57-02.png)
+| 4) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
+| ![](../assets/images/2023-07-05-16-16-55.png)
+| ![](../assets/images/2023-07-05-16-17-25.png)
+| ![](../assets/images/2023-03-14-12-44-50.png)
 
 {: .highlight}
 > This will open AEMC in a new browser tab.
