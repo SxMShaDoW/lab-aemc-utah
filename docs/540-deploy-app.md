@@ -1,10 +1,10 @@
 ---
 layout: default
 parent: 5) Simulation
-title: 5.4) Deploy an app
+title: 5.4) Deploy
 nav_order: 540
 nav_exclude: false
-permalink: /docs/deploy-app
+permalink: /docs/deploy
 ---
 
 # 5.4) Deploy an app

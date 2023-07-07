@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: 5) Simulation
-title: 5.1) Apply to be a developer
+title: 5.1) Request
 nav_order: 510
 nav_exclude: false
 permalink: /docs/request-developer-access
 ---
 
-# 5.1) Apply to be a developer
+# 5.1) Request to be a developer
 
 {: .note-title}
 > Sydney Carter

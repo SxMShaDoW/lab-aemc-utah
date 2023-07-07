@@ -7,11 +7,10 @@ permalink: /docs/personas-and-roles
 ---
 
 # Personas and Roles
+{: .no_toc }
 
 {: .highlight}
-> This part of the lab is for information purposes only. 
->
-> No activity required.
+> This part of the lab is for information purposes only. No activity required.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -93,4 +92,7 @@ permalink: /docs/personas-and-roles
 {: .no_toc}
 - sn_app_eng_studio.user
 
-[Next](/lab-aemc-utah/docs/install-reqs){: .btn .btn-green .fs-2}
+{: .important}
+> In the Utah release, the ‘**App Engine Studio Users Limited**’ group was added to allow AES administrators to give developers assigned to the group the ability to collaborate on existing applications without being able to create new applications or access templates.
+
+[Next](/lab-aemc-utah/docs/prepare-envs){: .btn .btn-green .fs-2}
