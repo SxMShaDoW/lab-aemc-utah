@@ -11,6 +11,8 @@ permalink: /docs/how-to-configure
 
 {: .highlight}
 > This part of the lab is for information purposes only. No activity required.
+>
+> Later exercises in the Lab will guide you through the needed configuration steps. 
 
 ![](../assets/images/2023-07-07-16-04-11.png)
 *Repeat steps across all sub-production instances, as necessary*
@@ -46,5 +48,8 @@ In this lab, we will be going through the same steps covered in the Guided Setup
 ## Service Accounts
 
 At a point in the setup of the Pipeline, you will need to provide a Service Account that can be used by the instances to communicate with each other.  Check with your company policy on Service Accounts for requirements. 
+
+{: .highlight}
+> Your Lab instance has a Service Account already pre-configured to use in the lab. 
 
 [Next](/lab-aemc-utah/docs/configure-aes){: .btn .btn-green .fs-2}
