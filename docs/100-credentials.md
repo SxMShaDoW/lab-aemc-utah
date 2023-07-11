@@ -1,18 +1,18 @@
 ---
 layout: default
-title: 2) Credentials
-nav_order: 200
+title: 1) Credentials
+nav_order: 100
 permalink: /docs/credentials
 ---
 
 # 2) Credentials
 
-In this lab, we will configure Service Account Credentials that allow App Engine Studio and App Engine Management Center to communicate.
+In this lab, we will configure **Service Account Credentials** that allow App Engine Studio and App Engine Management Center to communicate across environments. Check with your company policy on Service Accounts for requirements. 
 
 {: .highlight}
 > For the purposes of this lab, it is not important what Application Scope you create the credentials in. Global is fine.
 >
-> Check with your Platform Administrator to see if your company has any policies around connection and credential storage.
+> Check with your Platform Administrator to see if your company has any policies around **[Connection and Credential Aliases](https://docs.servicenow.com/csh?topicname=connection-alias.html&version=latest)**.
 
 {: .warning}
 > **Complete the steps below in all of your Lab environments.**
@@ -62,7 +62,11 @@ ILoveHyperAutomationTimes500!
 ```
 
 {: .warning}
-> Remember to complete the steps above in all of your Lab environments before continuing to the next exercise. 
+> **STOP!!**
+>
+> Did you repeat the instructions above for both **Prod** and **Dev**?
+>
+> Remember to start with **Prod** then **Test** then **Dev**.
 
 {: .note}
 > For more information, see **[Product Documentation: Create a Connection & Credential Alias](https://docs.servicenow.com/csh?topicname=connection-alias.html)**

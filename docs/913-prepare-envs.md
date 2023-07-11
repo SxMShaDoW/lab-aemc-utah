@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Prepare Environments
-nav_order: 13
-parent: Pre-Reqs
+nav_order: 913
+parent: References
 permalink: /docs/prepare-envs
 ---
 

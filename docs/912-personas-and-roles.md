@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Personas & Roles
-nav_order: 12
-parent: Pre-Reqs
+nav_order: 912
+parent: References
 permalink: /docs/personas-and-roles
 ---
 

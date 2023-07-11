@@ -1,8 +1,8 @@
 ---
 layout: default
 title: How to Install AES
-nav_order: 14
-parent: Pre-Reqs
+nav_order: 914
+parent: References
 permalink: /docs/how-to-install
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: How to Configure AES
-nav_order: 15
-parent: Pre-Reqs
+nav_order: 915
+parent: References
 permalink: /docs/how-to-configure
 ---
 
