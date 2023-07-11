@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3) Pipelines & Deployments
-nav_order: 300
+title: 2) Pipelines & Deployments
+nav_order: 200
 has_children: true
 permalink: /docs/pipelines-deployments
 ---

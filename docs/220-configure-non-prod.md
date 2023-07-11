@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: 3) Pipelines & Deployments
-title: 3.2) Configure non-Prod
-nav_order: 320
+parent: 2) Pipelines & Deployments
+title: 2.2) Configure non-Prod
+nav_order: 220
 has_children: false
 permalink: /docs/configure-non-prod
 ---
 
-# 3.2) Configure Controller Environment in Dev Instance
+# 2.2) Configure Controller Environment in Dev Instance
 
 We need to make sure the Dev environment knows where to send Deployment Requests. 
 

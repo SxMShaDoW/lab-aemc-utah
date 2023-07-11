@@ -21,32 +21,28 @@ In this lab, we will configure **Service Account Credentials** that allow App En
 >
 > Some Labs may only have a **Prod** and **Dev**.  
 
-| 1) Navigate to **All**.
+| 1) Click **All** » type **Connection & Credential Aliases** » click the SECOND **Connection & Credential Aliases**
+| ![](../assets/images/2023-07-11-15-10-23.png)
 
-| 2) Type "**Connection & Credential Aliases**"
-
-| 3) Click on **Connection & Credential Aliases**.
-| ![](../assets/images/2023-03-07-15-28-59.png)
-
-| 4) Click the purple **New** button in the top-right to create a new Credential Alias record. 
+| 2) Click the purple **New** button in the top-right to create a new Credential Alias record. 
 | ![](../assets/images/2023-03-07-15-38-10.png)
 
-| 5) Set the **Type** to **Credential**. 
+| 3) Set the **Type** to **Credential**. 
 | ![](../assets/images/2023-03-07-15-37-39.png) 
 
-| 6) Set the **Name** to `Pipeline Credentials` and click **Submit**.
+| 4) Set the **Name** to `Pipeline Credentials` and click **Submit**.
 | ![](../assets/images/2023-03-08-14-14-44.png)
 
-| 7) Click **Pipeline Credentials** to open the record. 
+| 5) Click **Pipeline Credentials** to open the record. 
 |![](../assets/images/2023-03-09-13-48-09.png) 
 
-| 8) Navigate to the **Credentials** Related List and click **New** to add a credential. 
+| 6) Navigate to the **Credentials** Related List and click **New** to add a credential. 
 |![](../assets/images/2023-03-09-13-49-03.png)
 
-| 9) Select **Basic Auth Credentials**.
+| 7) Select **Basic Auth Credentials**.
 |![](../assets/images/2023-03-09-13-50-33.png)
 
-| 10) On the **Basic Auth Credentials** form, fill in these values and click **Submit**. 
+| 8) On the **Basic Auth Credentials** form, fill in these values and click **Submit**. 
 |![](../assets/images/2023-06-27-22-50-59.png)
 
 **Click the clipboard icon on the right of the gray box below to copy.**
@@ -65,10 +61,5 @@ ILoveHyperAutomationTimes500!
 > **STOP!!**
 >
 > Did you repeat the instructions above for both **Prod** and **Dev**?
->
-> Remember to start with **Prod** then **Test** then **Dev**.
-
-{: .note}
-> For more information, see **[Product Documentation: Create a Connection & Credential Alias](https://docs.servicenow.com/csh?topicname=connection-alias.html)**
 
 [Next](/lab-aemc-utah/docs/pipelines-deployments){: .btn .btn-green .fs-2}

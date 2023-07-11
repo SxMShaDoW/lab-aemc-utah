@@ -1,16 +1,16 @@
 ---
 layout: default
-grand_parent: 3) Pipelines & Deployments
-parent: 3.1) Configure Prod
-title: 3.1.3) AES Admin in Prod
-nav_order: 340
+grand_parent: 2) Pipelines & Deployments
+parent: 2.1) Configure Prod
+title: 2.1.3) AES Admin in Prod
+nav_order: 240
 permalink: /docs/configure-prod-aes-admin
 nav_exclude: true
 ---
 
 2023.07.05 - Dale: I removed this page as it is now set up via automation. 
 
-# 3.1.2) Configure Prod AES Admin Group
+# 2.1.2) Configure Prod AES Admin Group
 
 Configure App Engine Studio administrator group membership in the **production** instance to manage application intake and deployment requests.
 
