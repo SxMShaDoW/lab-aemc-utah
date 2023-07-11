@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: 4) Simulation
-title: 4.1) Request
+title: 4.1) Request AES Access
 nav_order: 410
 nav_exclude: false
 permalink: /docs/request-developer-access
@@ -51,13 +51,13 @@ permalink: /docs/request-developer-access
 | Field | Value 
 |:---|:---
 | Application Name | ```Request Time Off``` 
-| Describe your idea | ```Allow users to request time off with approvals.```
+| Describe your idea in a few sentences | ```Allow IT users to request time off with approvals.```
 | Is your process repeatable? | ```Yes```
-| Do you have an email... ? | ```No```
-| How many users... ? | ```>20```
-| Does this involve... ? | ```No```
-| Do you need data... ? | ```No```
-| Who are the users... ? | ```Anyone in the IT Department```
+| Do you have an email or excel-based process? | ```Yes```
+| How many users are involved in this? | ```>20```
+| Does this involve any sensitive/PII data? | ```No```
+| Do you need data from other departments? | ```No```
+| Who are the users that will have access to the data in this application? | ```Anyone in the IT Department```
 
 | 8) Click **Submit**.
 
