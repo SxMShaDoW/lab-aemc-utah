@@ -5,21 +5,22 @@ nav_order: 0
 permalink: /
 ---
 
-# App Engine Governance Lab Guide
+# App Engine Governance Workshop Lab Guide
 
-In this lab, you will get hands-on experience setting up and managing App Engine Management Center (AEMC) and App Engine Studio (AES).
+***Utah Edition***
 
-We will cover concepts such as Pipelines and Deployments, Onboarding Developers, and Collaborations.
+In this lab, you will get hands-on experience setting up and managing App Engine Management Center (AEMC).
 
-Track and manage your App Engine Studio (AES) requests, deployments, applications, and collaborative developers using the App Engine Management Center (AEMC) in your production instance. Additionally, AEMC allows admins to manage app development from intake through production.
+Track and manage your App Engine Studio (AES) requests, deployments, applications, and collaborative developers using the App Engine Management Center (AEMC) in your production instance. 
 
-## Requirements
-- ServiceNow Utah Store 2 Release of App Engine (US2)
-- App Engine Studio v23.2.1
-- App Engine Management Center v23.1.3
+Additionally, AEMC allows admins to manage app development from intake through production.
 
-{: .note}
-> For more information see **[Product Docs: Managing app development using the App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)**
+{: .highlight}
+> App Engine Management Center can not be installed on a *any* ServiceNow instance without the purchase of App Engine licensing, including Production *and* Subproduction instances.
+>
+> It is also not available on Personal Developer Instances (PDIs).
+>
+> Use this Lab as a time to explore the product for training and learning purposes. 
 
 <span class="fs-6">
 [Let's Go!](./docs/lab-instance){: .btn .btn-green}

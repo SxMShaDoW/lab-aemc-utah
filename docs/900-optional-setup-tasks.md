@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1) Optional Setup Tasks
-nav_order: 100
+title: 9) Optional Setup Tasks
+nav_order: 900
 permalink: /docs/configure-aes
 ---
 
-# 1) App Engine Studio Optional Setup Tasks
+# App Engine Studio Optional Setup Tasks
 {: .no_toc }
 
 {: .highlight}

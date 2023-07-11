@@ -20,10 +20,13 @@ permalink: /docs/lab-instance
 | ![](../assets/images/2023-03-06-16-43-26.png)
 
 | 3) You will be presented with a final screen containing the URL for your **Dev** and **Prod** instances. 
-| ![](../assets/images/2023-03-29-07-56-42.png)
-
-There is also a link to the Lab Guide on this page which you are currently reading. 
+| ![](../assets/images/2023-07-11-14-42-18.png)
 
 Click on the **Magic Link** to be taken directly to an instance and automatically logged in.
+
+{: .highlight}
+> Due to the way ServiceNow provisions Labs with two instances, we are stuck with the words "dev" and "test" in the URL.
+>
+> Refer to and utilize the "test" instance as if it were Prod for the entirety of the Lab. 
 
 [Next](/lab-aemc-utah/docs/pre-reqs){: .btn .btn-green .fs-2}

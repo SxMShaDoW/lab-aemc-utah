@@ -13,4 +13,4 @@ has_children: true
 >
 > No lab activity required.
 
-[Next](/lab-aemc-utah/docs/aes-overview){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/aes-vs-studio){: .btn .btn-green .fs-2}
