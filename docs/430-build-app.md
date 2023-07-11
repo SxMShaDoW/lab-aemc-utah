@@ -19,11 +19,13 @@ After Jayne approved her request, she received an email that her app has been ap
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-17-01-20.png">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-17-09-02.png">
 > </td>
 > </tr>
 > </tbody>
 > </table>
+
+
 
 {: .note-title}
 > Sydney Carter
