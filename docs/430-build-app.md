@@ -11,7 +11,7 @@ permalink: /docs/build-app
 
 In this section, Sydney will build her app. 
 
-She receives an email that her app has been approved. 
+After Jayne approved her request, she received an email that her app has been approved. 
 
 {: .important}
 > **SUBJECT:** Your app has been approved

@@ -55,18 +55,38 @@ permalink: /docs/approval/
 | ![](../assets/images/2023-07-11-16-42-31.png)
 
 | 9) Click on **Create/edit applications (AES User Group)**
+| ![](../assets/images/2023-07-11-16-44-56.png)
+
+| 10) Scroll to the top of the page and click **Save** in the top right. 
+| ![](../assets/images/2023-07-11-16-46-15.png)
+
+| 11) Click on the **Catalog Tasks (1)** related list. 
+| ![](../assets/images/2023-07-11-16-47-20.png)
+
+| 12) Click the **SCTASK** number to open the Catalog Task.
+| ![](../assets/images/2023-07-11-16-47-55.png)
+
+| 13) Click **Close Task** in the top-right.
+| ![](../assets/images/2023-07-11-16-49-14.png)
+
+| 14) Click the i circle next to the **RITM** number to go back to the **RITM** record. 
+| ![](../assets/images/2023-07-11-16-54-30.png)
+
+| 15) Click **Approve** in the top-right of the page. 
+| ![](../assets/images/2023-07-11-16-56-47.png)
+| ![](../assets/images/2023-07-11-17-01-13.png)
 
 {: .note}
 > The Prod instance will attempt to configure Sydney's App Engine User access on the Dev environment.
 >
 > In the real world, there might be more than one person to do the approval and more time may be taken to review the answers.
-
-| 9) Click **X** to close the RITM tab in AEMC.
+>
+> You may also want to require the person to undergo additional training before approving their access to build applications. 
 
 **Congratulations!** 
 
 Sydney is ready begin building her first app.
 
-Jayne was able to configure Sydney's access **without** the admin role by clicking Approve on the request.
+Jayne was able to configure Sydney's access **without** the need for the admin role.
 
 [Next](/lab-aemc-utah/docs/build-app){: .btn .btn-green .fs-2}
