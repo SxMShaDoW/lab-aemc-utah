@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: 5) Simulation
-title: 5.3) Build
-nav_order: 530
+parent: 4) Simulation
+title: 4.3) Build
+nav_order: 430
 nav_exclude: false
 permalink: /docs/build-app
 ---
 
-# 5.3) Build the app
+# 4.3) Build the app
 
 In this section, Sydney will build her app. 
 
@@ -116,4 +116,4 @@ She receives an email that her app has been approved.
 
 Your new developer has built and app and submitted a request to deploy it.
 
-[Next](/lab-aemc-utah/docs/deploy){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/collaboration){: .btn .btn-green .fs-2}

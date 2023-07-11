@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: 5) Simulation
-title: 5.2) Approval
-nav_order: 520
+parent: 4) Simulation
+title: 4.2) Approval
+nav_order: 420
 nav_exclude: false
 permalink: /docs/approval/
 ---
 
-# 5.2) Review and Approval Developer Requests
+# 4.2) Review and Approval Developer Requests
 
 | 1) Click the avatar in the top-right, then click **Impersonate another user**.
 | ![](../assets/images/2023-03-14-12-44-50.png)

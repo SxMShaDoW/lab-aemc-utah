@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 5) Simulation
-nav_order: 500
+title: 4) Simulation
+nav_order: 400
 nav_exclude: false
 has_children: true
 permalink: /docs/simulation
 ---
 
-# 5) Simulation
+# 4) Simulation
 
 [Next](/lab-aemc-utah/docs/request-developer-access){: .btn .btn-green .fs-2}
 

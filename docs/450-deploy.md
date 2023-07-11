@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: 5) Simulation
-title: 5.4) Deploy
-nav_order: 540
+parent: 4) Simulation
+title: 4.5) Deploy
+nav_order: 450
 nav_exclude: false
 permalink: /docs/deploy
 ---
 
-# 5.4) Deploy an app
+# 4.5) Deploy an app
 
 {: .note-title}
 > Jayne Nigel
