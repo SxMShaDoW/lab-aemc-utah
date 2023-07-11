@@ -9,9 +9,9 @@ permalink: /docs/configure-non-prod
 
 # 2.2) Configure Controller Environment in Dev Instance
 
-We need to make sure the Dev environment knows where to send Deployment Requests. 
+Production is considered the "Controller" Environment as that is where App Engine Management Center is installed and orchestrates activities from. 
 
-They will get sent to App Engine Management Center in Production for review by the App Engine Admin Group.
+Next up, you add an Environment record to your Dev instance containing the details for your Prod instance. 
 
 {: .warning}
 > Complete this section in **DEV**.
@@ -40,20 +40,19 @@ They will get sent to App Engine Management Center in Production for review by t
 | Is Controller? | ```Checked``` 
 | Instance Id | ```This will auto populate after clicking Validate```
 
-| ![](../assets/images/2023-03-13-10-31-06.png)
+| 5) Click the "Validate" button.
+| ![](../assets/images/2023-07-11-16-01-35.png)
+
 | ![](../assets/images/2023-07-05-13-56-23.png)
 
 | You should see a blue message that says "The controller environment was validated successfully". 
-| ![](../assets/images/2023-03-12-17-05-44.png)
+| ![](../assets/images/2023-07-11-15-58-48.png)
 
-| 14) Click **Submit** to finish creating the **Prod** environment record.
-| ![](../assets/images/2023-07-05-14-01-45.png)
+| 6) Click **Submit** to finish creating the **Prod** environment record.
+| ![](../assets/images/2023-07-11-15-59-53.png)
 
 **Congratulations!**
 
 You're one step closer to deploying apps with App Engine Management Center. 
-
-{: .note}
-> For more information see **[Product Documentation: Define environments](https://docs.servicenow.com/csh?topicname=config-pipeline-environments.html&version=latest)**
 
 [Next](/lab-aemc-utah/docs/app-intake){: .btn .btn-green .fs-2}
