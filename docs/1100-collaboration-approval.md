@@ -8,6 +8,18 @@ permalink: /docs/collaboration-approval
 
 # 11) Approve Collaboration
 
+{: .important}
+> **SUBJECT:** Your collaborator request was approved
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-20-36.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
 {: .highlight}
 > You should still have a browser tab for **Prod** opened to App Engine Management Center in which you are impersonating Jayne. 
 >

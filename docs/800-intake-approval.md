@@ -85,22 +85,14 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 | 13) Click **Close Task** in the top-right.
 | ![](../assets/images/2023-07-11-16-49-14.png)
 
-| 14) Click the i circle next to the **RITM** number to go back to the **RITM** record. 
+| 14) Click the **ⓘ** icon next to the **RITM** number to go back to the **RITM** record. 
 | ![](../assets/images/2023-07-11-16-54-30.png)
 
 | 15) Click **Approve** in the top-right of the page. 
 | ![](../assets/images/2023-07-11-16-56-47.png)
 | ![](../assets/images/2023-07-11-17-01-13.png)
 
-{: .note}
-> The Prod instance will attempt to configure Sydney's App Engine User access on the Dev environment.
->
-> In the real world, there might be more than one person to do the approval and more time may be taken to review the answers.
->
-> You may also want to require the person to undergo additional training before approving their access to build applications. 
-
-
-![](../assets/images/2023-07-11-21-13-17.png)
+After Jayne approved the request, an automated email was sent to Sydney letting her know.
 
 {: .important}
 > **SUBJECT:** Request REQ0010005 was approved
@@ -108,11 +100,18 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-14-08.png)">
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-14-08.png">
 > </td>
 > </tr>
 > </tbody>
 > </table>
+
+{: .note}
+> The Prod instance will configure Sydney's App Engine User access on the Dev environment.
+>
+> In the real world, there might be more than one person to do the approval and more time may be taken to review the answers.
+>
+> You may also want to require the person to undergo additional training before approving their access to build applications. 
 
 **Congratulations!** 
 
