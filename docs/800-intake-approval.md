@@ -8,13 +8,9 @@ permalink: /docs/intake-approval/
 
 # 8) Approve Developer Intake Requests
 
-| 1) Click the avatar in the top-right, then click **Impersonate another user**.
-| ![](../assets/images/2023-03-14-12-44-50.png)
+---
 
-| 2) Type **Jayne Nigel** and click **Jayne Nigel**.
-| ![](../assets/images/2023-03-14-12-45-21.png)
-
-| 3) Click **Impersonate user**.
+In this section, our **App Engine Admin** Jayne will review and approve Sydney's App Intake request. 
 
 {: .note-title}
 > Jayne Nigel
@@ -29,7 +25,7 @@ permalink: /docs/intake-approval/
 > <br/>
 > She is not a Platform Administrator and does not have the 'admin' role in any environment.<br/>
 > <br/>
-> She is responsible for managing requests from App Engine Users, which will trigger automated testing and deployments. 
+> She is responsible for managing requests from App Engine Users. Her approvals will trigger automation to provision user access, deploy apps to environments, and other activities. 
 > </td>
 > </tr>
 > </tbody>
@@ -49,6 +45,13 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 > </tbody>
 > </table>
 
+| 1) Click the avatar in the top-right, then click **Impersonate another user**.
+| ![](../assets/images/2023-03-14-12-44-50.png)
+
+| 2) Type **Jayne Nigel** and click **Jayne Nigel**.
+| ![](../assets/images/2023-03-14-12-45-21.png)
+
+| 3) Click **Impersonate user**.
 | 4) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
 | ![](../assets/images/2023-07-05-16-16-55.png)
 
@@ -95,6 +98,21 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 > In the real world, there might be more than one person to do the approval and more time may be taken to review the answers.
 >
 > You may also want to require the person to undergo additional training before approving their access to build applications. 
+
+
+![](../assets/images/2023-07-11-21-13-17.png)
+
+{: .important}
+> **SUBJECT:** Request REQ0010005 was approved
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-14-08.png)">
+> </td>
+> </tr>
+> </tbody>
+> </table>
 
 **Congratulations!** 
 
