@@ -97,7 +97,55 @@ After Jayne approved the Collaboration Request, Priya received an email that she
 
 | 12) Enter ```Send data to Workday``` in the **Name** field and click **Continue**
 | ![](../assets/images/2023-07-11-21-34-10.png)
+| ![](../assets/images/2023-07-11-21-34-43.png)
 
+| 13) Click **Edit this flow**
+| ![](../assets/images/2023-07-11-21-35-23.png)
 
+| 14) Click **Add a trigger**
+| ![](../assets/images/2023-07-11-21-36-31.png)
+
+| 15) Click **Updated**
+| ![](../assets/images/2023-07-11-21-37-01.png)
+
+| 16) In the **Condition** field, type ```time off``` and click the **Time Off Request** table.
+| ![](../assets/images/2023-07-11-21-37-53.png)
+
+| 17) Click **Add filters** next to **Condition**
+| ![](../assets/images/2023-07-11-21-45-26.png)
+
+| 18) Configure a condition of **Active changes to false**
+| ![](../assets/images/2023-07-11-21-47-04.png)
+
+| 19) Click **Done**
+| ![](../assets/images/2023-07-11-21-38-16.png)
+
+| 20) Click **Add an Action, Flow Logic, or Subflow**
+| ![](../assets/images/2023-07-11-21-38-51.png)
+
+| 21) Click **Action** >> type ```log``` >> click **Log**
+| ![](../assets/images/2023-07-11-21-43-05.png)
+
+| 22) Type something in the **Message** field and click **Done**
+| ![](../assets/images/2023-07-11-21-44-16.png)
+
+| 23) Click **Save** in the top-right
+| ![](../assets/images/2023-07-11-21-44-55.png)
+| ![](../assets/images/2023-07-11-21-47-29.png)
+
+| 24) Click **Activate** >> **Activate**
+| ![](../assets/images/2023-07-11-21-48-02.png)
+| ![](../assets/images/2023-07-11-21-48-50.png)
+
+| 25) Click the **App Engine Studio** browser tab and return to the **Dev** platform view.
+| ![](../assets/images/2023-07-11-21-52-42.png)
+
+**Congrats!!** 
+
+Priya has built an integration in the app. It is simplistic for the lab, but in a real world scenario she would build a more complex integration for Sydney. 
+
+She sends a MS Teams message to Sydney letting her know that the integration portion of the app development is completed. 
+
+The app is now ready for Sydney to request it to be deployed. 
 
 [Next](/lab-aemc-utah/docs/deployment-request){: .btn .btn-green .fs-2}
