@@ -8,6 +8,8 @@ permalink: /docs/optional-setup-tasks
 # App Engine Studio Optional Setup Tasks
 {: .no_toc }
 
+---
+
 {: .highlight}
 > This part of the lab is for information purposes only. No activity required.
 >
@@ -134,5 +136,3 @@ Work with professional ServiceNow developers to configure Instance Scan definiti
 
 {: .note}
 > For more information on managing instance health scans, see **[Product Documentation: Instance Scan](https://docs.servicenow.com/csh?topicname=hs-landing-page.html&version=latest)**
-
-[Next](/lab-aemc-utah/docs/credentials){: .btn .btn-green .fs-2}

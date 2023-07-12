@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 14) Approve Deployment
 nav_order: 1400
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/deployment-approval
 ---
 
 # 14) Approve and Deploy Sydney's App
+
+---
 
 {: .note-title}
 > Jayne Nigel
@@ -102,4 +105,6 @@ If **Has Error** is **false**, then the app deployed successfully to the next en
 
 You have made it!! You deployed an app with the click of a button!
 
-[Next](/lab-aemc-utah/docs/optional-setup-tasks){: .btn .btn-green .fs-2}
+That completes the App Engine Governance Lab.
+
+Feel free to explore the Optional Setup Tasks and other References on the side of the page. 

@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 9) Build the app
 nav_order: 900
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/build-app
 ---
 
 # 9) Build the app
+
+---
 
 In this section, Sydney will build her app. 
 

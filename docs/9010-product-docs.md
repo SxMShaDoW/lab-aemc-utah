@@ -44,6 +44,3 @@ nav_exclude: true
 
 {: .note}
 > For more information see **[Product Documentation: Instance strategy for App Engine Studio](https://docs.servicenow.com/csh?topicname=aes-instance-strategy.html)**
-
-
-[Next](/lab-aemc-utah/docs/faqs){: .btn .btn-green .fs-2}

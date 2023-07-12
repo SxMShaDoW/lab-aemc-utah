@@ -19,5 +19,3 @@ Official ServiceNow Product Documentation
 
 ## [developer.servicenow.com](https://developer.servicenow.com/)
 Sign up for a free Personal Developer Instance and start free training
-
-[Next](/lab-aemc-utah/docs/setup-order){: .btn .btn-green .fs-2}

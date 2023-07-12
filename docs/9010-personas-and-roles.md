@@ -94,5 +94,3 @@ permalink: /docs/personas-and-roles
 
 {: .important}
 > In the Utah release, the ‘**App Engine Studio Users Limited**’ group was added to allow AES administrators to give developers assigned to the group the ability to collaborate on existing applications without being able to create new applications or access templates.
-
-[Next](/lab-aemc-utah/docs/prepare-envs){: .btn .btn-green .fs-2}

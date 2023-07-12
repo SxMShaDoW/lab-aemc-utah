@@ -33,5 +33,3 @@ Additionally, add **clone excludes** for the following Collaboration Descriptor 
 After cloning, a post-clone clean-up script is needed to reassign users and groups the appropriate delegated development permissions. We assume that in-development applications are backed up before cloning and users/groups are same between target and source instance.
 
 ***Note:** New App Engine Studio customers (Tokyo +) will only have data preservers on the tables listed above. Existing customers (pre-Tokyo) will also have data preservers on the following tables : Pipeline, Environment. Pipeline Environment Order, Pipeline Types*
-
-[Next](/lab-aemc-utah/docs/credential-tips){: .btn .btn-green .fs-2}

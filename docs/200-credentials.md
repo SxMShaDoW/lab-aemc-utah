@@ -1,11 +1,14 @@
 ---
 layout: default
+parent: Implementation
 title: 2) Create Credentials
 nav_order: 200
 permalink: /docs/credentials
 ---
 
 # 2) Credentials
+
+---
 
 In this exercise, we will configure **Service Account Credentials** that allow App Engine Studio and App Engine Management Center to communicate across environments. Check with your company policy on Service Accounts for requirements. 
 

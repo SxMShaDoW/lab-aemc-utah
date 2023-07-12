@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 10) Request Collaboration
 nav_order: 1000
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/collaboration-request
 ---
 
 # 10) Request Collaboration on an app
+
+---
 
 In this exercise, Sydney needs help building an Integration in her app.
 

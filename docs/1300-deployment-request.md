@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 13) Request Deployment
 nav_order: 1300
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/deployment-request
 ---
 
 # 13) Request Deployment
+
+---
 
 {: .warning}
 > Complete this section in **DEV**.

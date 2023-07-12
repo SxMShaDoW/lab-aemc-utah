@@ -51,5 +51,3 @@ At a point in the setup of the Pipeline, you will need to provide a Service Acco
 
 {: .highlight}
 > Your Lab instance has a Service Account already pre-configured to use in the lab. 
-
-[Next](/lab-aemc-utah/docs/configure-aes){: .btn .btn-green .fs-2}

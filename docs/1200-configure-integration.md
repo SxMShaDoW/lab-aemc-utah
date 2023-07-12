@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 12) Configure Integration
 nav_order: 1200
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/configure-integration
 ---
 
 # 12) Configure Integration
+
+---
 
 In this section, Priya will go to **Dev** and work on Sydney's app.
 

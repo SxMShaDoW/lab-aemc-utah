@@ -42,5 +42,3 @@ Repeat this process on all instances for cloning purposes.
 > For more information see 
 > - **[Product Documentation: Install App Engine Studio](https://docs.servicenow.com/csh?topicname=install-aes.html)** 
 > - **[ServiceNow Store: Install a ServiceNow Product](https://store.servicenow.com/%24appstore.do%23!/store/help?article=KB0030186)**
-
-[Next](/lab-aemc-utah/docs/how-to-configure){: .btn .btn-green .fs-2}

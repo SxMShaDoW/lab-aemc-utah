@@ -1,11 +1,14 @@
 ---
 layout: default
+parent: Implementation
 title: 4) Configure Prod Pipeline
 nav_order: 400
 permalink: /docs/configure-prod-pipeline
 ---
 
 # 4) Configure Pipeline in Prod only
+
+---
 
 [Pipelines](https://docs.servicenow.com/csh?topicname=config-pipeline.html&version=latest) ```[sn_pipeline_pipeline]``` define the path a ServiceNow Application takes from the Development to Production Environments and allows administrators to quickly move applications across instances in App Engine Management Center.
 

@@ -7,6 +7,8 @@ permalink: /docs/lab-instance
 
 # 1) Get a Lab instance
 
+---
+
 {: .note}
 > Your instructor will provide you with a URL that will load a form similar to below. 
 

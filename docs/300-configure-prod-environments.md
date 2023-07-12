@@ -1,11 +1,14 @@
 ---
 layout: default
+parent: Implementation
 title: 3) Configure Prod Environments
 nav_order: 300
 permalink: /docs/configure-prod-environments
 ---
 
 # 3) Configure Environments in Prod Instance
+
+---
 
 **[Environment records](https://docs.servicenow.com/csh?topicname=config-pipeline-environments.html&version=latest)** ```[sn_pipeline_environment]``` contain information about a ServiceNow instance and how to access it.
 

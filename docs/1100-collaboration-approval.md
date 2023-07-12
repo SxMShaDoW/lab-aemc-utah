@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 11) Approve Collaboration
 nav_order: 1100
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/collaboration-approval
 ---
 
 # 11) Approve Collaboration
+
+---
 
 When Sydney submitted the Collaboration Request in App Engine Studio, it triggered an email to Jayne prompting her to take action. 
 

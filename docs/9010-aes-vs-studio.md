@@ -22,5 +22,3 @@ Since development is supported between the two developer environments, low-code 
 All configurations to an application, whether performed in **App Engine Studio** or **ServiceNow Studio**, can be captured in the same private application scope. 
 
 Application artifacts configured in **App Engine Studio** can also be managed in **ServiceNow Studio**.
-
-[Next](/lab-aemc-utah/docs/personas-and-roles){: .btn .btn-green .fs-2}

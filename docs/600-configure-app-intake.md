@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Implementation
 title: 6) Configure App Intake
 nav_order: 600
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/configure-app-intake
 ---
 
 # 6) Configure Application Intake
+
+---
 
 {: .highlight}
 > **[Application Intake](https://docs.servicenow.com/csh?topicname=config-app-intake.html&version=latest)** has already been configured as part of the setup for this lab. 

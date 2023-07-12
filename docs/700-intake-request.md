@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Simulation
 title: 7) Request to develop
 nav_order: 700
 nav_exclude: false
@@ -7,6 +8,8 @@ permalink: /docs/intake-request
 ---
 
 # 7) Request to develop applications
+
+---
 
 {: .note-title}
 > Sydney Carter

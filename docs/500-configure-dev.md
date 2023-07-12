@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Implementation
 title: 5) Configure Dev 
 nav_order: 500
 has_children: false
@@ -7,6 +8,8 @@ permalink: /docs/configure-dev
 ---
 
 # 5) Configure Controller Environment in Dev Instance
+
+---
 
 Production is considered the "Controller" Environment as that is where App Engine Management Center is installed and orchestrates activities from. 
 

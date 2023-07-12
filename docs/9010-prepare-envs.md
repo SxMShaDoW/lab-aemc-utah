@@ -36,5 +36,3 @@ Sub-production instances that are most similarly configured to your production i
 
 {: .note}
 > For more information see **[Product Docs: Instance Strategy for App Engine Studio](https://docs.servicenow.com/csh?topicname=aes-instance-strategy.html&version=latest)**
-
-[Next](/lab-aemc-utah/docs/how-to-install){: .btn .btn-green .fs-2}
