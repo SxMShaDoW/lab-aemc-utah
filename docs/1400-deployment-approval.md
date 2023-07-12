@@ -83,10 +83,16 @@ When Sydney submitted the Deployment Request in App Engine Studio, it triggered 
 
 | 6) Eventually, you will see a record appear for your deployment. 
 | ![](../assets/images/2023-07-11-22-20-02.png)
+| If **Has Error** is **false**, then the app deployed successfully to the next environment. 
 
-If **Has Error** is **false**, then the app deployed successfully to the next environment. 
+## ***How can Jayne confirm if the app actually deployed?***
 
-***How can you confirm if the app actually deployed?***
+{: .highlight}
+> As part of the automated setup for your lab instance, Jayne was granted the role ```sn_appclient.app_client_company_installer```.
+>
+> This is a base Platform role that has existed for many years that allows a non-admin user to install apps from My Company Applications.
+>
+> For more information see **[Product Docs: Instance-specific deployment user roles](https://docs.servicenow.com/csh?topicname=delegated_deployment_user_roles.html&version=latest)**
 
 | 17) Click **All** >> type ```My Company Applications``` >> Click **My Company Applications**.
 | ![](../assets/images/2023-07-11-22-22-05.png)
