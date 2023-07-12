@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 9) Build
+title: 9) Build the app
 nav_order: 900
 nav_exclude: false
 permalink: /docs/build-app
@@ -23,8 +23,6 @@ After Jayne approved her request, she received an email that her app has been ap
 > </tr>
 > </tbody>
 > </table>
-
-
 
 {: .note-title}
 > Sydney Carter

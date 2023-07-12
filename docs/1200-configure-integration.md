@@ -6,8 +6,19 @@ nav_exclude: false
 permalink: /docs/configure-integration
 ---
 
-12) Configure Integration
+# 12) Configure Integration
 
+{: .important}
+> **SUBJECT:** Your app has been approved
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-20-59-36.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
 
 {: .note-title}
 > Priya Bapat
@@ -15,23 +26,38 @@ permalink: /docs/configure-integration
 > <tbody>
 > <tr>
 > <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/Jayne_Nigel.png" />
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/Priya_Bapat.png" />
 > </td>
 > <td>
-> Jayne is the App Engine Admin.<br/>
+> Priya has many years in IT building integrations on various Platforms.<br/>
 > <br/>
-> She is not a Platform Administrator and does not have the 'admin' role in any environment.<br/>
-> <br/>
-> She is responsible for managing requests from App Engine Users, which will trigger automated testing and deployments. 
+> She recently completed some Integration training on ServiceNow and is ready to assist Sydney.<br/>
 > </td>
 > </tr>
 > </tbody>
 > </table>
 
+{: .warning}
+> Complete this section in **DEV**.
 
+| 1) Go to your **Dev** instance.
 
-| X) impersontate.. blah blah blah
+| 2) In the top right, click the user avatar icon » **Impersonate another user**.
 | ![](../assets/images/2023-07-11-20-50-38.png)
+
+| 3) Type **Priya** and click **Priya Bapat** in the search results.
+|![](../assets/images/2023-07-11-20-56-14.png)
+
+| 4) Click **Impersonate User**. 
+| ![](../assets/images/2023-03-14-12-34-24.png)
+
+| 5) Click **All** » type ```app engine``` » click **App Engine Studio**
+| ![](../assets/images/2023-07-11-17-18-49.png)
+
+{: .highlight}
+> This will open AES in a new browser tab.
+
+
 
 
 [Next](/lab-aemc-utah/docs/deployment-request){: .btn .btn-green .fs-2}
