@@ -8,8 +8,10 @@ permalink: /docs/collaboration-approval
 
 # 11) Approve Collaboration
 
+When Sydney submitted the Collaboration Request in App Engine Studio, it triggered an email to Jayne prompting her to take action. 
+
 {: .important}
-> **SUBJECT:** Your collaborator request was approved
+> **SUBJECT:** Developer Collaboration Task DEV0001002 Approval Request
 > <table>
 > <tbody>
 > <tr>
@@ -19,6 +21,8 @@ permalink: /docs/collaboration-approval
 > </tr>
 > </tbody>
 > </table>
+
+Jayne decides to log in to take a closer look before approving. 
 
 {: .highlight}
 > You should still have a browser tab for **Prod** opened to App Engine Management Center in which you are impersonating Jayne. 

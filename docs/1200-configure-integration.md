@@ -27,7 +27,7 @@ In this section, Priya will go to **Dev** and work on Sydney's app.
 > </tbody>
 > </table>
 
-After Jayne approved her request, she received an email that she is now a collaborator on the app.
+After Jayne approved the Collaboration Request, Priya received an email that she is now a collaborator on the app.
 
 {: .important}
 > **SUBJECT:** You are now a collaborator
@@ -77,6 +77,26 @@ After Jayne approved her request, she received an email that she is now a collab
 {: .highlight}
 > This will open AES in a new browser tab.
 
+| 6) Click **My Apps** 
+| ![](../assets/images/2023-07-11-21-26-37.png)
+
+| 7) Click on the **IT Time Off Request** app
+| ![](../assets/images/2023-07-11-21-27-20.png)
+
+| 8) Note some of the differences in Priya's experience versus Sydney's. She does not have access to the **Submit** button to request to deploy the app.  She also can not see or modify any of the **Experiences** in the app. 
+| ![](../assets/images/2023-07-11-21-29-13.png)
+
+| 9) Scroll down and click **+Add** next to **Logic and Automation**.
+| ![](../assets/images/2023-07-11-21-31-14.png)
+
+| 10) Click **Flow**
+| ![](../assets/images/2023-07-11-21-31-35.png)
+
+| 11) Click **Build from scratch**
+![](../assets/images/2023-07-11-21-31-59.png)
+
+| 12) Enter ```Send data to Workday``` in the **Name** field and click **Continue**
+| ![](../assets/images/2023-07-11-21-34-10.png)
 
 
 
