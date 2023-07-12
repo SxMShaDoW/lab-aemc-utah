@@ -53,7 +53,6 @@ After Jayne approved her request, she received an email that her app has been ap
 | 4) Click **Impersonate User**. 
 | ![](../assets/images/2023-03-14-12-34-24.png)
 
-
 | 5) Click **All** » type ```app engine``` » click **App Engine Studio**
 | ![](../assets/images/2023-07-11-17-18-49.png)
 
