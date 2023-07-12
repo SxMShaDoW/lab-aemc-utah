@@ -2,7 +2,7 @@
 layout: default
 parent: References
 title: Credential tips and tricks
-nav_order: 9031
+nav_order: 9010
 permalink: /docs/credential-tips
 ---
 

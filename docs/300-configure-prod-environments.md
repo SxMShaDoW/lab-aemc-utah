@@ -19,7 +19,7 @@ Environment records do not sync across instances so creation is required on all 
 > Complete this section in **PROD**.
 
 {: .highlight}
-> For the purposes of this lab, it is not important what Application Scope you create the records in. Global is fine. 
+> For the purposes of this exercise, it is not important what Application Scope you create the records in. Global is fine. 
 >
 > Only users with the **System** **Administrator** (admin) role can define instance credentials for environments. 
 > 

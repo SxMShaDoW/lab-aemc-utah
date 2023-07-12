@@ -2,7 +2,7 @@
 layout: default
 parent: References
 title: How to Configure AES
-nav_order: 9015
+nav_order: 9010
 permalink: /docs/how-to-configure
 ---
 

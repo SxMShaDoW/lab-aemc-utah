@@ -2,7 +2,7 @@
 layout: default
 parent: References
 title: Setup order
-nav_order: 9020
+nav_order: 9010
 permalink: /docs/setup-order
 ---
 

@@ -79,7 +79,7 @@ After Jayne approved her request, she received an email that her app has been ap
 | ![](../assets/images/2023-07-11-17-28-16.png)
 
 {: .highlight}
-> In this lab, we are not exploring App Engine Studio; however, feel free to take a moment and explore the application that was built if you have time. 
+> In this exercise, we are not exploring App Engine Studio; however, feel free to take a moment and explore the application that was built if you have time. 
 
 **Congratulations!**
 

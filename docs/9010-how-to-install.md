@@ -2,7 +2,7 @@
 layout: default
 parent: References
 title: How to Install AES
-nav_order: 9014
+nav_order: 9010
 permalink: /docs/how-to-install
 ---
 

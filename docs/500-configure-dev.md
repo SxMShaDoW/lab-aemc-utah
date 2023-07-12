@@ -16,7 +16,7 @@ Next up, you add an Environment record to your Dev instance containing the detai
 > Complete this section in **DEV**.
 
 {: .highlight}
-> For the purposes of this lab, it is not important what Application Scope you create the environment records in. Global is fine. 
+> For the purposes of this exercise, it is not important what Application Scope you create the environment records in. Global is fine. 
 
 ## Environment setup
 

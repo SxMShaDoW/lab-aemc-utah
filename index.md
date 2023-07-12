@@ -7,7 +7,7 @@ permalink: /
 
 # App Engine Governance Workshop Lab Guide
 
-***Utah Edition***
+## Utah Edition
 
 In this lab, you will get hands-on experience setting up and managing App Engine Management Center (AEMC).
 

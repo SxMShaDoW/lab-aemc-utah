@@ -94,9 +94,9 @@ If **Has Error** is **false**, then the app deployed successfully to the next en
 > For more information see **[Product docs: ServiceNow application repository](https://docs.servicenow.com/csh?topicname=app-repo.html&version=latest)**
 
 | 20) Click the **Installed** tab.
+| *If the app does not appear in the list, then give it a few minutes to refresh.  There is an icon in the top-right that will stop spinning when the page is done loading.*
 | ![](../assets/images/2023-07-11-22-23-47.png)
-
-*If the app does not appear in the list, then give it a few minutes to refresh.  There is an icon in the top-right that will stop spinning when the page is done loading.*
+| ![](../assets/images/2023-07-12-08-29-21.png)
 
 **Congratulations!**  
 

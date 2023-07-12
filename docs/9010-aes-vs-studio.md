@@ -2,7 +2,7 @@
 layout: default
 parent: References
 title: AES vs. Studio
-nav_order: 9011
+nav_order: 9010
 permalink: /docs/aes-vs-studio
 ---
 

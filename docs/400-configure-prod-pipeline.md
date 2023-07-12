@@ -19,7 +19,7 @@ The Pipeline is only configured on the Controller Environment, which is the Prod
 > You **DO NOT** need to create a Pipeline in any other environment. 
 
 {: .highlight}
-> For the purposes of this lab, it is not important what Application Scope you create the environment records in. Global is fine. 
+> For the purposes of this exercise, it is not important what Application Scope you create the environment records in. Global is fine. 
 >
 > *If your Lab only has a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 

@@ -2,7 +2,7 @@
 layout: default
 title: Cloning tips and tricks
 parent: References
-nav_order: 9030
+nav_order: 9010
 permalink: /docs/cloning-tips
 ---
 
