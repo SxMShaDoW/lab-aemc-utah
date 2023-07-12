@@ -27,6 +27,8 @@ permalink: /docs/deployment-approval
 > </tbody>
 > </table>
 
+When Sydney submitted the Deployment Request in App Engine Studio, it triggered an email to Jayne prompting her to take action.
+
 {: .important}
 > **SUBJECT:** Developer Collaboration Task DEV0001002 Approval Request
 > <table>
@@ -39,35 +41,28 @@ permalink: /docs/deployment-approval
 > </tbody>
 > </table>
 
-
-{: .note}
-> For more information see: **[Product Documentation: Deploying applications](https://docs.servicenow.com/bundle/utah-application-development/page/build/custom-application/concept/deploying-applications.html)**
-
 {: .warning}
 >This section is to be completed in your **Production** instance where AEMC is running. That is your controller instance. 
 
-| 1) Go to your **Prod** instance.
-
-| 2) Click the avatar in the top-right, then click **Impersonate User**.
-| ![](../assets/images/2023-03-14-12-59-49.png)
-
-| 3) Type ```Jayne Nigel``` and click **Jayne Nigel**.
-| ![](../assets/images/2023-03-14-12-45-21.png)
-
-| 4) Click **Impersonate user**.
-
-| 5) Click **All**.
-| ![](../assets/images/2023-03-14-12-35-45.png)
-
-| 6) Type ```app engine management```.
-
-| 7) Click **App Engine Management Center**.
-| ![](../assets/images/2023-03-14-12-47-53.png)
-
 {: .highlight}
-> This will open AEMC in a new browser tab. **Switch to this new browser tab.**
+> You should still have a browser tab for **Prod** opened to App Engine Management Center in which you are impersonating Jayne. 
+>
+> If not, follow these quick instructions to be sure:
+>
+> 1) Click the avatar in the top-right, then click **Impersonate another user**.
+>
+> 2) Type **Jayne Nigel** and click **Jayne Nigel**.
+>
+> 3) Click **Impersonate user**.
+>
+> 4) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
+>
+> This will open AEMC in a new browser tab.
 
-| 8) In the **Deployment requests** widget, click the new Deployment request number. 
+
+| ![](../assets/images/2023-07-11-22-12-55.png)
+
+| 1) In the **Deployment requests** widget, click the new Deployment request number. 
 | ![](../assets/images/2023-03-15-14-12-49.png)
 
 | 9) Review the fields on the form to see the values that Sydney submitted. 
