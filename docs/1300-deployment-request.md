@@ -56,7 +56,7 @@ permalink: /docs/deployment-request
 Sydney receives an email letting her know that her Deployment Request was submitted. 
 
 {: .important}
-> **SUBJECT:** You are now a collaborator
+> **SUBJECT:** IT Time Off Request is being reviewed by your admin
 > <table>
 > <tbody>
 > <tr>
@@ -70,6 +70,5 @@ Sydney receives an email letting her know that her Deployment Request was submit
 **Congratulations!** 
 
 Your new developer has built an app and submitted a request to deploy it.
-
 
 [Next](/lab-aemc-utah/docs/deployment-approval){: .btn .btn-green .fs-2}

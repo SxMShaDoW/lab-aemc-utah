@@ -27,6 +27,19 @@ permalink: /docs/deployment-approval
 > </tbody>
 > </table>
 
+{: .important}
+> **SUBJECT:** Developer Collaboration Task DEV0001002 Approval Request
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-22-07-39.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+
 {: .note}
 > For more information see: **[Product Documentation: Deploying applications](https://docs.servicenow.com/bundle/utah-application-development/page/build/custom-application/concept/deploying-applications.html)**
 
