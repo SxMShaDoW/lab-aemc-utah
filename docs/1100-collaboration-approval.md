@@ -56,7 +56,7 @@ After Jayne approved the Collaboration Request, Sydney received an email to info
 
 **Great!!** Approving the request triggered AEMC to automatically provision Priya's access to work on the app with Sydney as an Integration Specialist.
 
-{: .important}
+{: .highlight}
 > **Integration Specialist** is a custom **[Collaboration Descriptor](https://docs.servicenow.com/csh?topicname=create-collaboration-descriptors.html&version=latest)** created for this lab. 
 
 [Next](/lab-aemc-utah/docs/configure-integration){: .btn .btn-green .fs-2}

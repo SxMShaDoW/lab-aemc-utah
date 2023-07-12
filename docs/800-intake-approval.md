@@ -35,6 +35,20 @@ permalink: /docs/intake-approval/
 > </tbody>
 > </table>
 
+When Sydney submitted her Intake Request it triggered an email to Jayne to let her know to take action. 
+
+{: .important}
+> **SUBJECT:** Please select user permission type for a new app request
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-08-36.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
 | 4) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
 | ![](../assets/images/2023-07-05-16-16-55.png)
 
