@@ -39,6 +39,21 @@ permalink: /docs/collaboration-approval
 | 5) Click **Overview** to return to the main AEMC page.
 | ![](../assets/images/2023-07-11-20-38-56.png)
 
+
+After Jayne approved the Collaboration Request, Sydney received an email to inform her that the request was approved. 
+
+{: .important}
+> **SUBJECT:** Your collaborator request was approved
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-21-05-07.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
 **Great!!** Approving the request triggered AEMC to automatically provision Priya's access to work on the app with Sydney as an Integration Specialist.
 
 {: .important}

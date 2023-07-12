@@ -8,17 +8,7 @@ permalink: /docs/configure-integration
 
 # 12) Configure Integration
 
-{: .important}
-> **SUBJECT:** Your app has been approved
-> <table>
-> <tbody>
-> <tr>
-> <td>
-> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-20-59-36.png">
-> </td>
-> </tr>
-> </tbody>
-> </table>
+In this section, Priya will go to **Dev** and work on Sydney's app.
 
 {: .note-title}
 > Priya Bapat
@@ -32,6 +22,36 @@ permalink: /docs/configure-integration
 > Priya has many years in IT building integrations on various Platforms.<br/>
 > <br/>
 > She recently completed some Integration training on ServiceNow and is ready to assist Sydney.<br/>
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+After Jayne approved her request, she received an email that she is now a collaborator on the app.
+
+{: .important}
+> **SUBJECT:** You are now a collaborator
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-07-11-20-59-36.png">
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+
+{: .note-title}
+> Priya Bapat
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/Priya_Bapat.png" />
+> </td>
+> <td>
+> She clicks the button in the email to go to App Engine Studio...<br/>
 > </td>
 > </tr>
 > </tbody>
