@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 13) Approve Deployment
-nav_order: 1300
+title: 14) Approve Deployment
+nav_order: 1400
 nav_exclude: false
 permalink: /docs/deployment-approval
 ---
 
-# 13) Approve and Deploy Sydney's App
+# 14) Approve and Deploy Sydney's App
 
 {: .note-title}
 > Jayne Nigel
