@@ -59,50 +59,44 @@ When Sydney submitted the Deployment Request in App Engine Studio, it triggered 
 >
 > This will open AEMC in a new browser tab.
 
-
+| 1) Click the **1** above **Deployment**.
 | ![](../assets/images/2023-07-11-22-12-55.png)
 
-| 1) In the **Deployment requests** widget, click the new Deployment request number. 
-| ![](../assets/images/2023-03-15-14-12-49.png)
+| 2) Click the **DEP** ticket to open Sydney's Deployment Request. 
+| ![](../assets/images/2023-07-11-22-15-03.png)
 
-| 9) Review the fields on the form to see the values that Sydney submitted. 
+| 3) Click **Approve** in the top-right of the page. 
+| ![](../assets/images/2023-07-11-16-56-47.png)
+| ![](../assets/images/2023-07-11-17-01-13.png)
 
-| 10) Click **Approve**.
-| ![](../assets/images/2023-03-15-14-15-20.png)
-| ![](../assets/images/2023-03-15-14-15-47.png)
+| 4) To check the status of the Deployment... Click the related list **Deployment Environment R..**
+| ![](../assets/images/2023-07-11-22-17-50.png)
 
-***Go take a five minute break or stretch.  It can take several minutes or more for the app to deploy to the next environment.***
+| 5) You click occasionally click the **Refresh** button to check on the progress. Once the app is deployed to the Prod environment a record will appear here. 
+| ![](../assets/images/2023-07-11-22-18-45.png)
 
-| 11) To check the status of the Deployment... 
+{: .highlight}
+> This is a good point to go take a five minute break or stretch. It can take several minutes or more for the app to deploy to the next environment.
 
-| 12) Click the related list **Deployment Environment R..**
-| ![](../assets/images/2023-03-15-14-17-35.png)
+| 6) Eventually, you will see a record appear for your deployment. 
+| ![](../assets/images/2023-07-11-22-20-02.png)
 
-| 13) Click the refresh button to refresh this list. 
-
-| 14) Eventually, you will see a record appear for your deployment. 
-| ![](../assets/images/2023-03-15-14-18-20.png)
-
-| 15) If **Has Error** is **false**, then the app deployed successfully to the next environment. 
-
-| 16) If you have more than two instances in the pipeline, you will need to perform an approval for each environment after Dev. 
+If **Has Error** is **false**, then the app deployed successfully to the next environment. 
 
 ***How can you confirm if the app actually deployed?***
 
-| 17) Click **All**.
-
-| 18) Type **My Company Applications**.
-
-| 19) Click **My Company Applications**.
-| ![](../assets/images/2023-03-15-14-20-14.png)
+| 17) Click **All** >> type ```My Company Applications``` >> Click **My Company Applications**.
+| ![](../assets/images/2023-07-11-22-22-05.png)
 
 {: .note}
-> My Company Applications shows you the applications that have been published to your company's App Repo. 
+> My Company Applications shows you the applications that have been published to your company's App Repo as well as what is installed on your current instance. 
 >
 > For more information see **[Product docs: ServiceNow application repository](https://docs.servicenow.com/csh?topicname=app-repo.html&version=latest)**
 
-| 20) You should see the application installed. 
-| ![](../assets/images/2023-03-15-14-23-44.png)
+| 20) Click the **Installed** tab.
+| ![](../assets/images/2023-07-11-22-23-47.png)
+
+*If the app does not appear in the list, then give it a few minutes to refresh.  There is an icon in the top-right that will stop spinning when the page is done loading.*
 
 **Congratulations!**  
 
