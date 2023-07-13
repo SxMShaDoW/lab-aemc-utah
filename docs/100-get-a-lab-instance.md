@@ -31,4 +31,4 @@ permalink: /docs/lab-instance
 
 Click on the **Magic Link** to be taken directly to an instance and automatically logged in.
 
-[Next](/lab-aemc-utah/docs/credentials){: .btn .btn-green .fs-2}
+[Next](/lab-aemc-utah/docs/credentials-prod){: .btn .btn-green .fs-2}
