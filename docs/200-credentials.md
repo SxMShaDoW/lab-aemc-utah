@@ -46,9 +46,6 @@ In this exercise, we will configure **Service Account Credentials** that allow A
 |![](../assets/images/2023-03-09-13-50-33.png)
 
 | 8) On the **Basic Auth Credentials** form, fill in these values and click **Submit**. 
-|![](../assets/images/2023-06-27-22-50-59.png)
-
-**Click the clipboard icon on the right of the gray box below to copy.**
 
 ```markdown
 Pipeline Service Account
@@ -59,6 +56,17 @@ svc_pipeline
 ```markdown
 ILoveHyperAutomationTimes500!
 ```
+
+|![](../assets/images/2023-06-27-22-50-59.png)
+
+{: .important}
+> You are inputting credentials that App Engine Management Center will use to log in to a remote environment. 
+>
+> The password for that remote account is already set to the password provided above. 
+>
+> You will encounter errors if you do not use the password below. 
+
+**Click the clipboard icon on the right of the gray box below to copy.**
 
 {: .warning}
 > **STOP!!**
