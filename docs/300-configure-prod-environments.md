@@ -30,12 +30,12 @@ Environment records do not sync across instances so creation is required on all 
 >
 > *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
 
-| 1) Log in to the **Prod** environment. 
+| 1) Log in to **Prod**.
 
-| 2) Click **All** >> type **environment** >> click **Environments** 
+| 2) Click **All** >> type **environment** >> click **Environments**
 | ![](../assets/images/2023-06-30-15-17-33.png)
 
-| 3) Click **New** in the top-right
+| 3) Click **New** in the top-right.
 | ![](../assets/images/2023-06-30-15-19-10.png)
 
 | 4) Complete the form as below.
@@ -85,8 +85,9 @@ Next, we will create the **Prod Environment** record on your Prod instance.
 | 9) Click the "Validate" button. 
 | ![](../assets/images/2023-07-11-15-38-49.png)
 
-| You should see a blue message that says "*The controller environment was validated successfully*". 
+| You should see a blue or yellow message that says "*The controller environment was validated successfully*". 
 | ![](../assets/images/2023-07-11-15-15-10.png)
+| ![](../assets/images/2023-07-13-17-13-29.png)
 
 | 10) Click **Submit** to finish creating the environment record.
 | ![](../assets/images/2023-07-11-15-37-58.png)

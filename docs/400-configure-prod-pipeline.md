@@ -39,7 +39,7 @@ The Pipeline is only configured on the Controller Environment, which is the Prod
 | Name | ```Main Pipeline``` 
 | Pipeline Type | ```Application Deployment```
 | Source Environment | ```Dev```
-| Active | Checked
+| Active | ![](../assets/images/2023-07-13-17-15-05.png)
 
 | ![](../assets/images/2023-07-11-15-50-04.png)
 
