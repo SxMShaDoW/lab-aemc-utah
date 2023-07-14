@@ -3,7 +3,7 @@ layout: default
 parent: Implementation
 title: 2b) Create Credentials in Dev
 nav_order: 200
-permalink: /docs/credentials
+permalink: /docs/credentials-dev
 ---
 
 # 2) Create Credentials in Dev
