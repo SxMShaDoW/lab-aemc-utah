@@ -30,25 +30,30 @@ permalink: /docs/intake-request
 > </tbody>
 > </table>
 
-| 1) In the top right, click the **System Administrator** avatar >> **Impersonate user**.
+{: .warning}
+> Complete this section in **PROD**.
+
+| 1) Log in to **Prod**
+
+| 2) In the top right, click the **System Administrator** avatar >> **Impersonate user**.
 | ![](../assets/images/2023-03-14-12-31-53.png)
 
-| 2) Type **Sydney Carter** and click **Sydney Carter** in the search results.
+| 3) Type **Sydney Carter** and click **Sydney Carter** in the search results.
 | ![](../assets/images/2023-03-14-12-34-01.png)
 
-| 3) Click **Impersonate User**. 
+| 4) Click **Impersonate User**. 
 | ![](../assets/images/2023-03-14-12-34-24.png)
 
-| 4) Click **All** >> type **service portal** >> click **Employee Center** 
+| 5) Click **All** >> type **service portal** >> click **Employee Center** 
 | ![](../assets/images/2023-07-05-10-07-57.png)
 
-| 5) Click **IT for IT** 
+| 6) Click **IT for IT** 
 | ![](../assets/images/2023-03-14-12-36-45.png)
 
-| 6) Click **Apply for Citizen Development - V2**
+| 7) Click **Apply for Citizen Development - V2**
 | ![](../assets/images/2023-07-05-15-48-46.png)
 
-| 7) Fill out the form with the values below. 
+| 8) Fill out the form with the values below. 
 
 | Field | Value 
 |:---|:---
@@ -61,9 +66,9 @@ permalink: /docs/intake-request
 | Do you need data from other departments? | ```No```
 | Who are the users that will have access to the data in this application? | ```Anyone in the IT Department```
 
-| 8) Click **Submit**.
+| 9) Click **Submit**.
 
-| 9) After the request is submitted, close the browser tab and return to the original browser tab for "Prod". 
+| 10) After the request is submitted, close the browser tab and return to the original browser tab for "Prod". 
 
 At this point, Sydney will receive an email letting her know the status of her request. 
 

@@ -46,50 +46,55 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 > </tbody>
 > </table>
 
-| 1) Click the avatar in the top-right, then click **Impersonate another user**.
+{: .warning}
+> Complete this section in **PROD**.
+
+| 1) Log in to **Prod**
+
+| 2) Click the avatar in the top-right, then click **Impersonate another user**.
 | ![](../assets/images/2023-03-14-12-44-50.png)
 
-| 2) Type **Jayne Nigel** and click **Jayne Nigel**.
+| 3) Type **Jayne Nigel** and click **Jayne Nigel**.
 | ![](../assets/images/2023-03-14-12-45-21.png)
 
-| 3) Click **Impersonate user**.
-| 4) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
+| 4) Click **Impersonate user**.
+| 5) Click **All** >> type **app engine management** >> click **App Engine Management Center**.
 | ![](../assets/images/2023-07-05-16-16-55.png)
 
 {: .highlight}
 > This will open AEMC in a new browser tab.
 
-| 5) In the **Pending requests to complete** widget, click the number **1** above **Intake** to open Sydney's request. 
+| 6) In the **Pending requests to complete** widget, click the number **1** above **Intake** to open Sydney's request. 
 | ![](../assets/images/2023-07-11-16-34-50.png)
 
-| 6) Click the **RITM** number to open Sydney's request.
+| 7) Click the **RITM** number to open Sydney's request.
 | ![](../assets/images/2023-07-11-16-36-33.png)
 
 | 7) Scroll down the left-hand side of the page in the **Details** section.
 |![](../assets/images/2023-07-11-16-39-06.png)
 
-| 8) In the **Administration** section of the form, click on the **Permission type** drop-down field.
+| 9) In the **Administration** section of the form, click on the **Permission type** drop-down field.
 | ![](../assets/images/2023-07-11-16-42-31.png)
 
-| 9) Click on **Create/edit applications (AES User Group)**
+| 10) Click on **Create/edit applications (AES User Group)**
 | ![](../assets/images/2023-07-11-16-44-56.png)
 
-| 10) Scroll to the top of the page and click **Save** in the top right. 
+| 11) Scroll to the top of the page and click **Save** in the top right. 
 | ![](../assets/images/2023-07-11-16-46-15.png)
 
-| 11) Click on the **Catalog Tasks (1)** related list. 
+| 12) Click on the **Catalog Tasks (1)** related list. 
 | ![](../assets/images/2023-07-11-16-47-20.png)
 
-| 12) Click the **SCTASK** number to open the Catalog Task.
+| 13) Click the **SCTASK** number to open the Catalog Task.
 | ![](../assets/images/2023-07-11-16-47-55.png)
 
-| 13) Click **Close Task** in the top-right.
+| 14) Click **Close Task** in the top-right.
 | ![](../assets/images/2023-07-11-16-49-14.png)
 
-| 14) Click the **ⓘ** icon next to the **RITM** number to go back to the **RITM** record. 
+| 15) Click the **ⓘ** icon next to the **RITM** number to go back to the **RITM** record. 
 | ![](../assets/images/2023-07-11-16-54-30.png)
 
-| 15) Click **Approve** in the top-right of the page. 
+| 16) Click **Approve** in the top-right of the page. 
 | ![](../assets/images/2023-07-11-16-56-47.png)
 | ![](../assets/images/2023-07-11-17-01-13.png)
 

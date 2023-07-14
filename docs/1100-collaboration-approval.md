@@ -27,6 +27,9 @@ When Sydney submitted the Collaboration Request in App Engine Studio, it trigger
 
 Jayne decides to log in to take a closer look before approving. 
 
+{: .warning}
+> Complete this section in **PROD**.
+
 {: .highlight}
 > You should still have a browser tab for **Prod** opened to App Engine Management Center in which you are impersonating Jayne. 
 >
