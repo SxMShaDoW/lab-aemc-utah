@@ -35,7 +35,7 @@ Next up, you add an Environment record to your Dev instance containing the detai
 
 | Field | Value 
 |:---|:---
-| Name | ```Prod``` 
+| Name | ```AEMC Controller``` 
 | Instance Type| ```Production``` 
 | Instance URL | ```The full URL of your Prod Lab instance (Ex. https://your-lab-123.service-now.com)``` 
 | Instance credential | ```Pipeline_Credentials``` 
