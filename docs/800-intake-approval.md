@@ -94,6 +94,9 @@ When Sydney submitted her Intake Request it triggered an email to Jayne to let h
 | 15) Click the **ⓘ** icon next to the **RITM** number to go back to the **RITM** record. 
 | ![](../assets/images/2023-07-11-16-54-30.png)
 
+{: .highlight}
+> If you do not see the **Approve** button in the next step, you may need to refresh the page.
+
 | 16) Click **Approve** in the top-right of the page. 
 | ![](../assets/images/2023-07-11-16-56-47.png)
 | ![](../assets/images/2023-07-11-17-01-13.png)
