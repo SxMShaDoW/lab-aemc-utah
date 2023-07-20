@@ -34,6 +34,9 @@ permalink: /docs/deployment-request
 | 6) Click the **IT Time Off Request** tile.
 | ![](../assets/images/2023-07-11-22-01-34.png)
 
+{: .highlight}
+> If the **Submit** button is grayed out in the next step, try refreshing the page. 
+
 | 7) Click **Submit**.
 | ![](../assets/images/2023-03-14-13-21-30.png)
 
