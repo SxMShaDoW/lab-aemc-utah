@@ -48,6 +48,13 @@ Pipeline Credentials
 | 8) Select **Basic Auth Credentials**.
 |![](../assets/images/2023-03-09-13-50-33.png)
 
+{: .important}
+> Next, you will be inputting credentials that App Engine Management Center will use to log in to a remote environment. 
+>
+> The password for that remote account is already configured. 
+>
+> You will encounter errors if you do not use the specified password below. 
+
 | 9) On the **Basic Auth Credentials** form, fill in these values and click **Submit**. 
 
 *Click the clipboard icon on the right of the gray box below to copy.*
@@ -63,12 +70,5 @@ ILoveHyperAutomationTimes500!
 ```
 
 |![](../assets/images/2023-06-27-22-50-59.png)
-
-{: .important}
-> You are inputting credentials that App Engine Management Center will use to log in to a remote environment. 
->
-> The password for that remote account is already set to the password provided above. 
->
-> You will encounter errors if you do not use the password below. 
 
 [Next](/lab-aemc-utah/docs/credentials-dev){: .btn .btn-green .fs-2}
