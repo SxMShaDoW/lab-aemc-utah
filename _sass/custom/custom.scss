@@ -51,3 +51,7 @@ a {
   @include btn-color($white, $green-sn);
     color: $brand-blue !important;
 }
+
+.mermaid {
+  font-size: 16px; /* Change this to whatever font size you prefer */
+}

@@ -8,27 +8,38 @@ permalink: /docs/configure-prod-environments
 
 # 3) Configure Environments in Prod Instance
 
----
+<button class="btn btn-green fs-3" disabled>Estimated Time to Complete: 10 minutes</button>
 
-**[Environment records](https://docs.servicenow.com/csh?topicname=config-pipeline-environments.html&version=latest)** ```[sn_pipeline_environment]``` contain information about a ServiceNow instance and how to access it.
+## Overview 
 
-You must first configure the Environment records before a Pipeline can be setup. 
+[Environment records](https://docs.servicenow.com/csh?topicname=config-pipeline-environments.html&version=latest){:target="_blank"} <i class="fas fa-external-link-alt"></i> (`sn_pipeline_environment`) contain information about a ServiceNow instance and how to access it.
 
 Environment records do not sync across instances so creation is required on all instances (production and sub-production).
 
-## Create a Dev Environment Record (*in your Prod instance*)
+Environment records are put together in a Pipeline to let App Engine Management Center know what path to promote applications to Production.
 
-{: .warning}
-> Complete this section in **PROD**.
+```mermaid
+graph LR
+    style Pipeline fill:#C5D6D8,stroke:#333,stroke-width:1px
+    subgraph Pipeline
+        style Dev fill:#FFCCCC,stroke:#333,stroke-width:2px
+        style Prod fill:#CCFFCC,stroke:#333,stroke-width:2px
+        Dev[Dev Environment] --> Prod[Prod Environment]
+    end
+
+```
 
 {: .highlight}
-> For the purposes of this exercise, it is not important what Application Scope you create the records in. Global is fine. 
+> For this exercise, the specific Application Scope for the environments is not critical - Global is acceptable. Always check with your Platform Administrator for any company policies around **<a href="https://docs.servicenow.com/csh?topicname=connection-alias.html&version=latest" target="_blank">Connection and Credential Aliases ↗</a>**.
 >
-> Only users with the **System** **Administrator** (admin) role can define instance credentials for environments. 
+> Only users with the **System Administrator** (admin) role can define instance credentials for environments. 
 > 
-> Users with the **App** **Engine** **Administrator** ```[sn_app_eng_notify.app_engine_admin]``` role can view environment records; however, the Instance credential field is not visible.
->
-> *If you only have a **DEV** and **TEST** instance, then treat your **TEST** instance as if it were **PROD**.*
+> Users with the **App Engine Administrator** (`sn_app_eng_notify.app_engine_admin`) role can view environment records; however, the Instance credential field is not visible.
+
+## Instructions
+
+{: .warning}
+> **Complete this section in PROD.**
 
 | 1) Log in to **Prod**.
 
@@ -92,10 +103,12 @@ Next, we will create the **Prod Environment** record on your Prod instance.
 | 10) Click **Submit** to finish creating the environment record.
 | ![](../assets/images/2023-07-11-15-37-58.png)
 
-**Congratulations!**
+## Lessons Learned
 
-That completes setup of your Environment records in your Prod environment.
+In this exercise, you have:
 
-Next up, you will link the Environments together in a Pipeline on your Prod environment.
+- Understood the function and importance of Environment records in the ServiceNow platform.
+- Successfully configured Environment records for both Development and Production instances in your Prod environment.
+- Acquired the knowledge of validating these Environment records.
 
 [Next](/lab-aemc-utah/docs/configure-prod-pipeline){: .btn .btn-green .fs-2}
