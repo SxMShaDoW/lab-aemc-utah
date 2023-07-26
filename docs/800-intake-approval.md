@@ -124,7 +124,7 @@ After Jayne approved the request, an automated email was sent to Sydney letting 
 
 **Congratulations!** 
 
-Sydney is ready begin building her first app.
+Sydney is ready to begin building her first app.
 
 Jayne was able to configure Sydney's access **without** the need for the admin role.
 

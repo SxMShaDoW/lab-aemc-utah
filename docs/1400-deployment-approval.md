@@ -20,7 +20,7 @@ permalink: /docs/deployment-approval
 > <img src="https://creatorworkflowsnow.github.io/lab-aemc-utah/assets/images/2023-03-28-16-42-23.png">
 > </td>
 > <td>
-> Jayne is familiar many different software methodologies such as Agile and SAFe.<br/> 
+> Jayne is familiar with many different software methodologies such as Agile and SAFe.<br/> 
 > <br/>
 > She is familiar with Update Sets from her ServiceNow training, but she does not regularly work with them.<br/>
 > <br/>
@@ -33,7 +33,7 @@ permalink: /docs/deployment-approval
 When Sydney submitted the Deployment Request in App Engine Studio, it triggered an email to Jayne prompting her to take action.
 
 {: .important}
-> **SUBJECT:** Developer Collaboration Task DEV0001002 Approval Request
+> **SUBJECT:** Deployment Request DEP0010002 Approval Request
 > <table>
 > <tbody>
 > <tr>
@@ -75,7 +75,7 @@ When Sydney submitted the Deployment Request in App Engine Studio, it triggered 
 | 4) To check the status of the Deployment... Click the related list **Deployment Environment R..**
 | ![](../assets/images/2023-07-11-22-17-50.png)
 
-| 5) You click occasionally click the **Refresh** button to check on the progress. Once the app is deployed to the Prod environment a record will appear here. 
+| 5) Occasionally click the **Refresh** button to check on the progress. Once the app is deployed to the Prod environment a record will appear here. 
 | ![](../assets/images/2023-07-11-22-18-45.png)
 
 {: .highlight}
