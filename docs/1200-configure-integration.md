@@ -111,7 +111,7 @@ After Jayne approved the Collaboration Request, Priya received an email that she
 | 15) Click **Updated**
 | ![](../assets/images/2023-07-11-21-37-01.png)
 
-| 16) In the **Condition** field, type ```time off``` and click the **Time Off Request** table.
+| 16) In the **Table** field, type ```time off``` and click the **Time Off Request** table.
 | ![](../assets/images/2023-07-11-21-37-53.png)
 
 | 17) Click **Add filters** next to **Condition**
