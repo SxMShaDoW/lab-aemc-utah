@@ -14,7 +14,7 @@ permalink: /docs/configure-app-intake
 {: .highlight}
 > **[Application Intake](https://docs.servicenow.com/csh?topicname=config-app-intake.html&version=latest)** has already been configured as part of the setup for this lab. 
 >
-> This section can be safely be skipped and will not affect the rest of the lab. 
+> This section can be safely skipped and will not affect the rest of the lab. 
 >
 > We are providing the information below to help add context.
 
