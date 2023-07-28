@@ -51,6 +51,9 @@ Jayne decides to log in to take a closer look before approving.
 | 2) Click the **1** above **Collaboration**
 | ![](../assets/images/2023-07-11-20-33-05.png)
 
+{: .warning}
+> If there is no collaboration task, then the environment controller is probably misconfigured and the approval task got created in dev. Validate that the environment records (checkbox should be set to true for the production url) are setup correctly in both environments.
+
 | 3) Click the **DEV** ticket to open Sydney's Collaboration request.
 | ![](../assets/images/2023-07-11-20-35-33.png)
 
