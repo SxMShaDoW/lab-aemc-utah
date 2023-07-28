@@ -11,14 +11,14 @@ permalink: /docs/configure-app-intake
 
 ---
 
+{: .warning}
+> Normally you complete this section in **PROD**, BUT it is already configured for you in lab settings. You can safely skip this section!
+
 {: .highlight}
-> **[Application Intake](https://docs.servicenow.com/csh?topicname=config-app-intake.html&version=latest)** has already been configured as part of the setup for this lab. 
->
-> This section can be safely skipped and will not affect the rest of the lab. 
->
+> **[Application Intake](https://docs.servicenow.com/csh?topicname=config-app-intake.html&version=latest)** contains more information in ServiceNow docs. 
 > We are providing the information below to help add context.
 
-Application Intake is configured in the Prod Environment and consists of a few important tasks:
+Application Intake is configured in the **Prod** Environment and consists of a few important tasks:
 
 - Set the ```sn_app_intake.instance_can_provision_users``` system property to **true**.
 
