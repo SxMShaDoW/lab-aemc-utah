@@ -57,6 +57,9 @@ Environment records do not sync across instances so creation is required on all 
 | You should see a blue message that says "The environment was validated successfully". 
 | ![](../assets/images/2023-07-11-15-37-24.png)
 
+{: .warning}
+> If you received a red error related to session certificates or incorrect password, please reach out to the lab admin as you won't be able to generate the Instance Id.
+
 | 6) Click **Submit** to finish creating the environment record.
 | ![](../assets/images/2023-07-11-15-37-58.png)
 
