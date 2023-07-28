@@ -39,7 +39,7 @@ Next up, you add an Environment record to your Dev instance containing the detai
 | Instance Type| ```Production``` 
 | Instance URL | ```The full URL of your Prod Lab instance (Ex. https://your-lab-123.service-now.com)``` 
 | Instance credential | ```Pipeline_Credentials``` 
-| Is Controller? | ```Checked``` {: .highlight} **Validate this is Checked**
+| Is Controller? | ```Checked``` {: .highlight} **Validate this is Checked/True**
 | Instance Id | ```This will auto populate after clicking Validate```
 
 | 5) Click the "Validate" button.
