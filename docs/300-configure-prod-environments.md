@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Implementation
-title: 3) Configure Prod Environments
+title: 3) Configure Prod Environment Records
 nav_order: 300
 permalink: /docs/configure-prod-environments
 ---
