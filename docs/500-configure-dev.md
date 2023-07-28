@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Implementation
-title: 5) Configure Dev 
+title: 5) Configure Dev Environment Record
 nav_order: 500
 has_children: false
 permalink: /docs/configure-dev
@@ -49,6 +49,9 @@ Next up, you add an Environment record to your Dev instance containing the detai
 
 | You should see a blue message that says "The controller environment was validated successfully". 
 | ![](../assets/images/2023-07-11-15-58-48.png)
+
+{: .warning}
+> If you received a red error related to session certificates or incorrect password, please reach out to the lab admin as you won't be able to generate the Instance Id.
 
 | 6) Click **Submit** to finish creating the **Prod** environment record.
 | ![](../assets/images/2023-07-11-15-59-53.png)
