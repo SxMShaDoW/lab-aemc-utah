@@ -10,6 +10,9 @@ permalink: /docs/credentials-dev
 
 ---
 
+{: .warning}
+> Complete this section in **DEV**.
+
 {: .highlight}
 > For the purposes of this exercise, it is not important what Application Scope you create the credentials in. Global is fine.
 >
