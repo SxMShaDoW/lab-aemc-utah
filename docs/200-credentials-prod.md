@@ -12,6 +12,9 @@ permalink: /docs/credentials-prod
 
 In this exercise, we will configure **Service Account Credentials** that allow App Engine Management Center to communicate to the Environments in the Pipeline.
 
+{: .warning}
+> Complete this section in **PROD**.
+
 {: .highlight}
 > For the purposes of this exercise, it is not important what Application Scope you create the credentials in. Global is fine.
 >
