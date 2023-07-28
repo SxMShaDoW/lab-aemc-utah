@@ -15,6 +15,9 @@ In this exercise, Sydney needs help building an Integration in her app.
 
 She will submit a **[Collaboration Request](https://docs.servicenow.com/csh?topicname=application-collaboration.html&version=latest)** for Priya to assist her. 
 
+{: .warning}
+> Complete this section in **DEV**.
+
 {: .highlight}
 > Complete the next exercise as Sydney in the **Dev** environment.
 >
