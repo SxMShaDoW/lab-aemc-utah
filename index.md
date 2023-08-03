@@ -23,5 +23,9 @@ Additionally, AEMC allows admins to manage app development from intake through p
 > Use this Lab as a time to explore the product for training and learning purposes. 
 
 <span class="fs-6">
-[Let's Go!](./docs/lab-instance){: .btn .btn-green}
+[Let's Go!](./docs/before-you-begin){: .btn .btn-green}
+</span>
+
+<span class="fs-6">
+[Take me to the V2 Lab!](https://creatorworkflowsnow.github.io/lab-aemc-utah-v2/){: .btn .btn-green}
 </span>
